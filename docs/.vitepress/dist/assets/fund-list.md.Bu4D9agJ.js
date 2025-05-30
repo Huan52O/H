@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.B5zsB5VV.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"fund-list.md","filePath":"fund-list.md"}'),s={name:"fund-list.md"};function n(r,o,c,d,i,f){return a(),e("div")}const l=t(s,[["render",n]]);export{_ as __pageData,l as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as e,ae as p}from"./chunks/framework.B5zsB5VV.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gold-market.md","filePath":"gold-market.md"}'),s={name:"gold-market.md"};function d(a,i,n,l,r,f){return e(),o("div",null,i[0]||(i[0]=[p("",4)]))}const v=t(s,[["render",d]]);export{x as __pageData,v as default};

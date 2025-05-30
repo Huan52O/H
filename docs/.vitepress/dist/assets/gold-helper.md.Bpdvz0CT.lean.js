@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as a,ae as n}from"./chunks/framework.B5zsB5VV.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gold-helper.md","filePath":"gold-helper.md"}'),r={name:"gold-helper.md"};function s(o,t,d,p,g,l){return a(),i("div",null,t[0]||(t[0]=[n("",2)]))}const x=e(r,[["render",s]]);export{b as __pageData,x as default};
