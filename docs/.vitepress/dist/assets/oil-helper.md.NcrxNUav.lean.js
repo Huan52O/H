@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./chunks/framework.B5zsB5VV.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"oil-helper.md","filePath":"oil-helper.md"}'),o={name:"oil-helper.md"};function a(s,c,l,n,p,i){return r(),t("div")}const m=e(o,[["render",a]]);export{d as __pageData,m as default};
