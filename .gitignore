@@ -1,11 +1,11 @@
 # VuePress files
 docs/.vitepress/temp/
 docs/.vitepress/cache/
-docs/.vitepress/dist/
+# docs/.vitepress/dist/
 docs/ts
 
 # Dist files
-dist/
+# dist/
 lib/
 
 # Test temp files
