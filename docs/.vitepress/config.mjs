@@ -2,10 +2,11 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "H",
+  title: "Hello",
   base: "/H/",
-  description: "A VitePress Site",
+  description: "Just browse around",
   themeConfig: {
+    logo: '/favicon.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
