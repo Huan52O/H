@@ -202,5 +202,9 @@ module.exports = {
   OilInfo,
   OkxInfo,
   ProcessEnv,
-  CoinMap
+  CoinMap,
+  FundURL,
+  LargeMarketURL,
+  FundObj,
+  WeekDays
 }
