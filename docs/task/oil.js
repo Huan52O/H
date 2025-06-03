@@ -85,8 +85,7 @@ const createOilHtml = async () => {
   <div style="padding: 0 24px; margin-top: 16px;">
     <h2 style="font-size: 18px; font-weight: 600; margin-bottom: 12px;">油价详情</h2> 
     ${list.map(item => {
-      return `
-      <div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+      return `<div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
         <div style="background-color: rgba(22, 93, 255, 0.05); border-radius: 16px; padding: 16px; display: flex; align-items: center;">
           <div style="background-color: ${item.color}; color: white; border-radius: 50%; width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-weight: bold;">
               ${item.flag}
@@ -116,7 +115,7 @@ const createOilHtml = async () => {
   </div>
 </div>`;
 
-    const filePath = path.join(path.resolve(), 'docs', 'oilTest.md');
+    const filePath = path.join(path.resolve(), 'docs', 'oil.md');
     ensureDirectoryExistence(filePath);
     fs.writeFile(filePath, mdContent, 'utf-8', (err) => {
       if (err) {
