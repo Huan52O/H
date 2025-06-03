@@ -27,7 +27,7 @@ jobs:
         run: npm install
       
       - name: Start task
-        run: node task/oil.js
+        run: node docs/task/oil.js
                     # 提交并推送修改
       - name: Commit files
         run: |
