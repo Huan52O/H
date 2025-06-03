@@ -13,18 +13,18 @@
       <div style="display: flex; justify-content: space-between; align-items: center;">
         <div style="font-size: 12px; color: #64748b;">
             <i class="fa-regular fa-calendar" style="margin-right: 4px;"></i>
-            <span>2025年06月02日</span>
+            <span>2025年06月03日</span>
         </div>
         <div style="font-size: 12px; color: #165DFF; font-weight: 500;">
             <i class="fa-solid fa-clock-rotate-left" style="margin-right: 4px;"></i>
-            <span>14:51:54</span>
+            <span>15:17:18</span>
         </div>
       </div>
     </div>
   </div>
   <div style="padding: 0 24px; margin-top: 16px;">
-    <h2 style="font-size: 18px; font-weight: 600; margin-bottom: 12px;">油价详情</h2>       
-      <div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <h2 style="font-size: 18px; font-weight: 600; margin-bottom: 12px;">油价详情</h2> 
+    <div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
         <div style="background-color: rgba(22, 93, 255, 0.05); border-radius: 16px; padding: 16px; display: flex; align-items: center;">
           <div style="background-color: #165DFF; color: white; border-radius: 50%; width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-weight: bold;">
               92#
@@ -35,11 +35,9 @@
           </div>
           <div style="text-align: right;">
               <div style="font-size: 20px; font-weight: bold; color: #165DFF;">¥6.93</div>
-              <div style="font-size: 10px; color: #22c55e;">-0.19</div>
           </div>
         </div>
-      </div>
-      <div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+      </div><div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
         <div style="background-color: rgba(22, 93, 255, 0.05); border-radius: 16px; padding: 16px; display: flex; align-items: center;">
           <div style="background-color: #36D399; color: white; border-radius: 50%; width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-weight: bold;">
               95#
@@ -50,11 +48,9 @@
           </div>
           <div style="text-align: right;">
               <div style="font-size: 20px; font-weight: bold; color: #36D399;">¥7.51</div>
-              <div style="font-size: 10px; color: #22c55e;">-0.2</div>
           </div>
         </div>
-      </div>
-      <div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+      </div><div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
         <div style="background-color: rgba(22, 93, 255, 0.05); border-radius: 16px; padding: 16px; display: flex; align-items: center;">
           <div style="background-color: #FF6B35; color: white; border-radius: 50%; width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-weight: bold;">
               98#
@@ -65,11 +61,9 @@
           </div>
           <div style="text-align: right;">
               <div style="font-size: 20px; font-weight: bold; color: #FF6B35;">¥9.51</div>
-              <div style="font-size: 10px; color: #22c55e;">-0.2</div>
           </div>
         </div>
-      </div>
-      <div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
+      </div><div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
         <div style="background-color: rgba(22, 93, 255, 0.05); border-radius: 16px; padding: 16px; display: flex; align-items: center;">
           <div style="background-color: #1E293B; color: white; border-radius: 50%; width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-weight: bold;">
               0#
@@ -80,10 +74,9 @@
           </div>
           <div style="text-align: right;">
               <div style="font-size: 20px; font-weight: bold; color: #1E293B;">¥6.56</div>
-              <div style="font-size: 10px; color: #22c55e;">-0.19</div>
           </div>
         </div>
-      </div>
+      </div>      
   </div>
   <div style="background-color: #1E293B; color: white; padding: 24px; margin-top: 24px;">
     <div style="text-align: center;">
