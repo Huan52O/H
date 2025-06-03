@@ -1,3 +1,6 @@
+const fs = require('fs');
+const path = require('path');
+
 const randomRgbaColor = () => {
   //随机生成RGBA颜色
   var r = Math.floor(Math.random() * 256); //随机生成256以内r值
