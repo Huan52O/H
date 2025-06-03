@@ -17,7 +17,8 @@ const {
 
 const {  
   dateFormater,
-  getNowSeconds 
+  getNowSeconds,
+  ensureDirectoryExistence
 } = utils;
 
 const getOilInfo = () => {
@@ -116,7 +117,8 @@ const createOilHtml = async () => {
       </div>
     </div>`;
 
-    const filePath = path.join(__dirname, 'docs', 'oilTest.md');
+    const filePath = path.join(path.resolve(), 'docs', 'oilTest.md');
+    ensureDirectoryExistence(filePath);
     fs.writeFile(filePath, mdContent, 'utf-8', (err) => {
       if (err) {
         console.log('写入文件时出错:', err)

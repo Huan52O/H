@@ -47,10 +47,20 @@ const getNowSeconds = () => {
   return new Date(new Date().getTime() + new Date().getTimezoneOffset() * 60 * 1000 + 8 * 60 * 60 * 1000)
 };
 
+const ensureDirectoryExistence = (filePath) => {
+  const dirname = path.dirname(filePath)
+  if (fs.existsSync(dirname)) {
+    return true
+  }
+  ensureDirectoryExistence(dirname)
+  fs.mkdirSync(dirname)
+};
+
 module.exports = {
   randomRgbaColor,
   getRandomColor,
   diffDay,
   dateFormater,
   getNowSeconds,
+  ensureDirectoryExistence
 }
