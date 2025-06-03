@@ -1,4 +1,4 @@
-name: oil1
+name: coin
 on: 
   workflow_dispatch:
     #branches:
@@ -9,7 +9,7 @@ on:
         required: false 
         type: boolean 
   schedule:
-    - cron: "32 0 * * *"
+    - cron: "32 1 * * *"
 
 jobs:
   start:
@@ -27,7 +27,7 @@ jobs:
         run: npm install
       
       - name: Start task
-        run: node docs/task/oil.js
+        run: node docs/task/coin.js
                     # 提交并推送修改
       - name: Commit files
         run: |
@@ -37,6 +37,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else   
-            git commit -m "update oil.md"
+            git commit -m "update coin.md"
             git push
           fi

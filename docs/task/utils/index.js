@@ -59,11 +59,24 @@ const ensureDirectoryExistence = (filePath) => {
   fs.mkdirSync(dirname)
 };
 
+const writeMdFile = (fileName, mdContent) => {
+  const filePath = path.join(path.resolve(), 'docs', `${fileName}.md`);
+  ensureDirectoryExistence(filePath);
+  fs.writeFile(filePath, mdContent, 'utf-8', (err) => {
+    if (err) {
+      console.log('写入文件时出错:', err)
+    } else {
+      console.log('数据已成功写入文件:', filePath)
+    }
+  })
+}
+
 module.exports = {
   randomRgbaColor,
   getRandomColor,
   diffDay,
   dateFormater,
   getNowSeconds,
-  ensureDirectoryExistence
+  ensureDirectoryExistence,
+  writeMdFile
 }

@@ -1,6 +1,4 @@
 const axios = require("axios");
-const fs = require('fs');
-const path = require('path');
 const CONSTANT = require('./constant');
 const utils = require('./utils');
 
@@ -18,7 +16,7 @@ const {
 const {  
   dateFormater,
   getNowSeconds,
-  ensureDirectoryExistence
+  writeMdFile
 } = utils;
 
 const getOilInfo = () => {
@@ -39,7 +37,7 @@ const getOilInfo = () => {
   });
 };
 
-const createOilHtml = async () => {
+const createOilMd = async () => {
   try {
     const result = await getOilInfo();
     const resultGd = result.filter(item => {
@@ -115,18 +113,10 @@ const createOilHtml = async () => {
   </div>
 </div>`;
 
-    const filePath = path.join(path.resolve(), 'docs', 'oil.md');
-    ensureDirectoryExistence(filePath);
-    fs.writeFile(filePath, mdContent, 'utf-8', (err) => {
-      if (err) {
-        console.log('写入文件时出错:', err)
-      } else {
-        console.log('数据已成功写入文件:', filePath)
-      }
-    })
+    writeMdFile('oil', mdContent);
   } catch (error) {
     console.error(error);
   }
 };
 
-createOilHtml();
+createOilMd();
