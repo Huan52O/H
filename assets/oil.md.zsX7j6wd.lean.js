@@ -1,0 +1,1 @@
+import{_ as t,c as e,o,ae as d}from"./chunks/framework.C-voQVsB.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"oil.md","filePath":"oil.md"}'),s={name:"oil.md"};function r(l,i,a,n,p,v){return o(),e("div",null,i[0]||(i[0]=[d("",1)]))}const c=t(s,[["render",r]]);export{x as __pageData,c as default};
