@@ -9,6 +9,7 @@ const { GoldMap: {
 } } = CONSTANT;
 
 const {
+  getRandomColor,
   dateFormater,
   getNowSeconds,
   writeMdFile
@@ -51,7 +52,7 @@ const createGoldMd = (list) => {
     } else {
       icon = item.name.indexOf('金') > -1 ? icons[icons.length - 1] : iconsSilver[0];
     }
-    return `<div style="margin-bottom:15px; padding:15px; background:#00122e; border:1px solid #00f7ff33; border-radius:8px;">
+    return `<div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
       <div style="display:flex; align-items:center; margin-bottom:10px; border-bottom:1px solid #00f7ff33; padding-bottom:8px;">
         <img src="${icon}" style="width:32px; height:32px; margin-right:12px;">
         <span style="font-size:18px; font-weight:700;">${item.name}</span>
