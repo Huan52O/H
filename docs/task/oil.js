@@ -1,4 +1,6 @@
 const axios = require("axios");
+const path = require("path");
+const fs = require("fs");
 const CONSTANT = require('./constant');
 const utils = require('./utils');
 
@@ -16,6 +18,8 @@ const {
   getNowSeconds,
   writeMdFile
 } = utils;
+
+const OilDataPath = path.join(__dirname, 'constant', 'oilData.json');
 
 const getOilInfo = () => {
   const params = {
@@ -35,12 +39,62 @@ const getOilInfo = () => {
   });
 };
 
+const readOilData = () => {
+  try {
+    return fs.readFileSync(OilDataPath, 'utf-8');
+  } catch (error) {
+    console.error('读取文件时出错:', error);
+    return null;
+  }
+};
+
+const transformPriceChange = (change) => {
+  if (change > 0) {
+    return `+${change}`
+  } else if (change < 0) {
+    return `-${change}`
+  } else if (change == 0) {
+    return ''
+  }
+};
+
 const createOilMd = async () => {
   try {
     const result = await getOilInfo();
     const resultGd = result.filter(item => {
       return item.city === OilCity
     })[0];
+    const { last, current } = JSON.parse(readOilData());
+    let readOil = {
+      last: last,
+      current: current
+    };
+    if (current['92h'] != resultGd['92h']) {
+      // 更新last, current
+      readOil = {
+        "last": {
+           "92h": current['92h'],
+           "95h": current['95h'],
+           "98h": current['98h'],
+           "0h": current['0h']
+         },
+         "current": {
+           "92h": resultGd['92h'],
+           "95h": resultGd['95h'],
+           "98h": resultGd['98h'],
+           "0h": resultGd['0h']
+         },
+         "update": `${dateFormater('YYYY-MM-DD HH:mm:ss', getNowSeconds())}`
+      };
+      const jsonData = JSON.stringify(readOil, null, 2)
+      fs.writeFile(OilDataPath, jsonData, 'utf-8', (err) => {
+        if (err) {
+          console.log('写入文件时出错:', err)
+        } else {
+          console.log('数据已成功写入文件:', OilDataPath)
+        }
+      })
+    };
     const list = [];
     for (const key in OilMapping) {
       if (OilMapping.hasOwnProperty(key)) {
@@ -50,6 +104,7 @@ const createOilMd = async () => {
           flag: OilMapping[key].flag,
           desc: OilMapping[key].desc,
           color: OilMapping[key].color,
+          change: (readOil.current[key] - readOil.last[key]).toFixed(2) * 1
         })
       }
     };
@@ -92,6 +147,7 @@ const createOilMd = async () => {
           </div>
           <div style="text-align: right;">
               <div style="font-size: 20px; font-weight: bold; color: ${item.color};">¥${item.price}</div>
+              <div style="font-size: 10px; color: ${item.change > 0 ? `#FF6B35` : `#22c55e`};">${transformPriceChange(item.change)}</div>
           </div>
         </div>
       </div>`
