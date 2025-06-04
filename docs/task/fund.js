@@ -3,10 +3,12 @@ const CONSTANT = require('./constant');
 const utils = require('./utils');
 
 const {
-  FundURL,
-  LargeMarketURL,
-  FundObj,
-  WeekDays  
+  FundMap: {
+    FundURL,
+    LargeMarketURL,
+    FundObj,
+    WeekDays
+  }  
 } = CONSTANT;
 
 const {

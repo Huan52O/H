@@ -3,15 +3,13 @@ const CONSTANT = require('./constant');
 const utils = require('./utils');
 
 const {
-  OilInfo
+  OilInfo: {
+    OilUrl,
+    OilKey,
+    OilCity,
+    OilMapping
+  }
 } = CONSTANT;
-
-const {
-  OilUrl,
-  OilKey,
-  OilCity,
-  OilMapping
-} = OilInfo;
 
 const {  
   dateFormater,
