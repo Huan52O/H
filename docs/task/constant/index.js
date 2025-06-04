@@ -283,6 +283,51 @@ const GoldMap = {
   iconsSilver: [
     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAArhJREFUWEftlT1oFFEQx2f2LqhYCNoZ0cYYRLQSOzWNFmK08KsQIoTdN7cEDg6rdAqiYJkiu/M8DTmwiCEWRlFBEbELpBEsjKCmiIKIqCjJ4d17uiErex97+y53eiBu++Y/85v/m9mH0OEPO1wf/i2AQqGwfmBg4HszrrbVgXw+v8+27ZmOAUgpB4UQNzoCMDo62ptOp4UQ4vxfBfA8rw8RtwBADyLu1Fo/syxrXik1v7i4OJ/L5T43AjKagZGRkTXZbLZYL9HY2NhapdS2Uqm0BxH3l8vlS67rfjB1IRGAmQ9rrd9kMplXjZL6vt8DAFszmcxj0+JBXEMAZt4AAFcBYBYAJojoSyBiZqGU2hwtlE6nXzuOU2imeCyA53ndqVRqu9Y66MoGgAWl1ANEfImI5wBgsF4hpdRF13UvRM+klBNCiDNxYCZX4FqWNeM4ziwz7waA57HJEN9prfcS0fsw5pdmiohOtALQVSwW12Wz2a/MfD2u+7BA6AIzX1nZiuMAcAcAbpdKpamhoaFvUZhEB8Lg8fHxTUtLSx+T7hirXGDmp0R0cNUOhELf9y8j4nASQHAenQVmvkZETssAUsonWus+E4DABSFEdxDred5Z13Vvtgxgcv+RIpNEdHplZbuI6EfLACadryam7hDm8/mN5XI5mOId0aRa67lUKjVs2/anesXidADwFgBuCSHuV+vqAjBzsDb9MR1NE9GxemdSynta6yMxujki6k0EkFIe1VpPN7ITEfuFEHejMb7vn0TEyWZ1NQ4kdB/mr3Eh2HcAOJAwB4+I6FDsj8ik+1AcdSF4MQHgockQVrtX4YBh9zUuNPOPAIAK9yoApJQLWuuKZ7ZRV0S0rG8SAEJdoK124JRSapeJlZZlvSCi5aFj5lXpagBMCrc7xvg1bHfh38P8pxKb5v3vwE9JAzIw8CGLyQAAAABJRU5ErkJggg=="
   ]
+};
+
+const WeatherMap = {
+  mojiUrl: 'https://tianqi.moji.com/weather/china/',
+  EmojiMap: {
+    '雾': '🌫️',
+    '晴': '☀️',
+    '少云': '🌤️',
+    '多云': '⛅',
+    '阴': '☁️',
+    '雨': '🌧️',
+    '小雨': '🌧️➕🌂',
+    '毛毛雨': '🌦️➕💧',
+    '小到中雨': '🌧️➕☔',
+    '中雨': '🌧️➕☔',
+    '阵雨': '🌧️',
+    '中到大雨': '☔➕🌊',
+    '大雨': '🌧️➕🌊',
+    '大到暴雨': '⛈️',
+    '暴雨': '🌧️➕⚠️',
+    '雷阵雨': '⛈️➕⚡',
+    '冰雹': '🌨️➕🧊➕⚡',
+    '冻雨': '🌧️➕🧊',
+    '雪': '❄️',
+    '大雪': '❄️➕☃️',
+    '暴风雪': '❄️➕🌪️',
+  },
+  Citys: [
+    {
+      firstName: 'beijing',
+      lastName: 'beijing'
+    },
+    {
+      firstName: 'shanghai',
+      lastName: 'shanghai'
+    },
+    {
+      firstName: 'guangdong',
+      lastName: 'guangzhou'
+    },
+    {
+      firstName: 'hunan',
+      lastName: 'hengnan-county'
+    },
+  ]
 }
 
 module.exports = {
@@ -293,5 +338,6 @@ module.exports = {
   FundMap,
   MonthsMap,
   StockMap,
-  GoldMap
+  GoldMap,
+  WeatherMap
 }
