@@ -1,0 +1,1 @@
+import{_ as t,c as s,o,ae as e}from"./chunks/framework.C-voQVsB.js";const v=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"coin.md","filePath":"coin.md"}'),d={name:"coin.md"};function f(p,i,n,r,l,a){return o(),s("div",null,i[0]||(i[0]=[e("",1)]))}const A=t(d,[["render",f]]);export{v as __pageData,A as default};
