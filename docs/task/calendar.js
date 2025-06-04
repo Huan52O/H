@@ -167,12 +167,11 @@ const sendCalendar = () => {
               m.holiday.includes('油价') ? '#ffcf47' : '#cc76ff' :
                 m.isBefore ? '#cacaca' : 
           '#87d8eb'}; border-radius: 15px;">
-              ${m.day}
-              ${m.holiday.map(h => {
+              ${m.day}${m.holiday.length > 0 ? m.holiday.map(h => {
                 return `<div style="font-size:12px; font-weight: 600; line-height:1.2;">
                           ${h}
                         </div>`
-              }).join('')}
+              }).join('') : '<span style="display:none;"></span>'}
           </div>`
         }).join('')}
       </div>
