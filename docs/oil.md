@@ -17,7 +17,7 @@
         </div>
         <div style="font-size: 12px; color: #165DFF; font-weight: 500;">
             <i class="fa-solid fa-clock-rotate-left" style="margin-right: 4px;"></i>
-            <span>14:54:37</span>
+            <span>16:32:34</span>
         </div>
       </div>
     </div>
@@ -35,6 +35,7 @@
           </div>
           <div style="text-align: right;">
               <div style="font-size: 20px; font-weight: bold; color: #165DFF;">¥6.99</div>
+              <div style="font-size: 10px; color: #FF6B35;">+0.06</div>
           </div>
         </div>
       </div><div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
@@ -48,6 +49,7 @@
           </div>
           <div style="text-align: right;">
               <div style="font-size: 20px; font-weight: bold; color: #36D399;">¥7.57</div>
+              <div style="font-size: 10px; color: #FF6B35;">+0.06</div>
           </div>
         </div>
       </div><div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
@@ -61,6 +63,7 @@
           </div>
           <div style="text-align: right;">
               <div style="font-size: 20px; font-weight: bold; color: #FF6B35;">¥9.57</div>
+              <div style="font-size: 10px; color: #FF6B35;">+0.06</div>
           </div>
         </div>
       </div><div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
@@ -74,6 +77,7 @@
           </div>
           <div style="text-align: right;">
               <div style="font-size: 20px; font-weight: bold; color: #1E293B;">¥6.61</div>
+              <div style="font-size: 10px; color: #FF6B35;">+0.05</div>
           </div>
         </div>
       </div>      
