@@ -1,1 +1,0 @@
-import{_ as i,c as o,o as e,ae as d}from"./chunks/framework.C-voQVsB.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"gold.md","filePath":"gold.md"}'),p={name:"gold.md"};function s(n,t,a,l,r,f){return e(),o("div",null,t[0]||(t[0]=[d("",1)]))}const v=i(p,[["render",s]]);export{x as __pageData,v as default};
