@@ -1,0 +1,42 @@
+name: autoDeploy
+on: 
+  workflow_dispatch:
+    #branches:
+    #  - main
+    inputs:
+      tags:
+        description: 'Test scenario tags'
+        required: false 
+        type: boolean 
+  schedule:
+    - cron: "40 1,6 * * *"
+
+jobs:
+  start:
+    # 运行环境为最新版的Ubuntu
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      #安装node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      # 生成静态文件
+      - name: Build
+        run: npm run docs:build
+
+      # 部署到 GitHub Pages
+      - name: Deploy
+        # 使用别人写好的一个 action
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          # 这里的 ACCESS_TOKEN 名字需要和下文中的相对应
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          # 打包后的文件部署到哪个分支上
+          BRANCH: deploy
+          # 打包后的文件在哪里
+          FOLDER: docs/.vitepress/dist
