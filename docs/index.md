@@ -54,5 +54,10 @@ features:
     details: 实时监控布伦特原油、WTI 原油、国内成品油调价窗口等关键价格节点。
     link: /oil
     linkText: 查看详情
+  - title: 天气卡片
+    icon:
+      src: /weather.svg
+    details: 实时追踪台风、暴雨、高温等极端天气预警及每日天气趋势
+    link: /weather
+    linkText: 查看详情
 ---
-

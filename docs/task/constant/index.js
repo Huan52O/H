@@ -328,7 +328,87 @@ const WeatherMap = {
       lastName: 'hengnan-county'
     },
   ]
-}
+};
+
+const CarInfo = {
+  UserAgent:
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+  Cookie:
+    "BAIDUID=A58A3A83C503DBEECFD1A95D0B486160:FG=1; Hm_lvt_74dc9c641a3e6ae783a2ad1b67e90643=1722911764; HMACCOUNT=D850D639D104045F; Hm_lvt_3d2ca9e65ec4a450b97f705740dc51b5=1722911764; CITY=%7B%22code%22%3A%22257%22%2C%22name%22%3A%22%E5%B9%BF%E5%B7%9E%22%7D; Hm_lpvt_3d2ca9e65ec4a450b97f705740dc51b5=1722929964; Hm_lpvt_74dc9c641a3e6ae783a2ad1b67e90643=1722929964",
+  RankListUrl: "https://www.yoojia.com/api/rank/getranklist",
+  Token: "1_526c1239fc0b0512a2bd13ac6b962f5f",
+  Sort: "sale",
+  SubLevels: {
+    1: {
+      name: "全部轿车",
+      code: "1",
+    },
+    100: {
+      name: "微型轿车",
+      code: "100",
+    },
+    101: {
+      name: "小型轿车",
+      code: "101",
+    },
+    102: {
+      name: "紧凑型轿车",
+      code: "102",
+    },
+    103: {
+      name: "中型轿车",
+      code: "103",
+    },
+    104: {
+      name: "中大型轿车",
+      code: "104",
+    },
+    105: {
+      name: "大型轿车",
+      code: "105",
+    },
+    2: {
+      name: "全部SUV",
+      code: "2",
+    },
+    200: {
+      name: "小型SUV",
+      code: "200",
+    },
+    201: {
+      name: "紧凑型SUV",
+      code: "201",
+    },
+    202: {
+      name: "中型SUV",
+      code: "202",
+    },
+    203: {
+      name: "中大型SUV",
+      code: "203",
+    },
+    204: {
+      name: "大型SUV",
+      code: "204",
+    },
+    3: {
+      name: "MPV",
+      code: "3",
+    },
+    404: {
+      name: "新能源",
+      code: 1,
+    },
+  },
+  Monitor: "RANK_SALE_pc",
+  City: "广州",
+  BrandSaleUrl: "https://m.yoojia.com/api/rank/getranklistv2",
+  TokenMobile: "1_2298dc2ac944caad6d611cdbbcb9710e",
+  UserAgentIos:
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+  CookieMobile:
+    'BAIDUID=A58A3A83C503DBEECFD1A95D0B486160:FG=1; CITY=%7B%22code%22%3A%22257%22%2C%22name%22%3A%22%E5%B9%BF%E5%B7%9E%22%7D; Hm_lvt_3d2ca9e65ec4a450b97f705740dc51b5=1722911764,1722990274; HMACCOUNT=D850D639D104045F; Hm_lvt_74dc9c641a3e6ae783a2ad1b67e90643=1722911764,1722990274; MAWEBCUID=web_jIubdqTvHHmnxBoZhvRMXWmiiSFdYudEIZbjLBIirgcZTRXGfd; YOUJIAID=E20B38C0E4658781D28DEF70F3E3AE00:FG=1; __bid_n=1912aaa187a753646ecea5; ISSWAN=1; BAIDUID=A58A3A83C503DBEECFD1A95D0B486160:FG=1; HOSTNAME=baiduboxapp; yj_sid=103916_9-105949_1-73147_2-78154_1-79833_1-84074_1-84101_1-84349_3-84522_2-85191_2; Hm_lpvt_3d2ca9e65ec4a450b97f705740dc51b5=1722998877; Hm_lpvt_74dc9c641a3e6ae783a2ad1b67e90643=1722998877; MAWEBPASSANTI=5466aca8a4d67db734563ee73deb5b3a18fc18c47ff440a8219d7bcae802f4427470a300db8563af953ceb76707bc554ed0912f96d45e9fa018d6347c4ac792fc44b0ee44dc12478b7db14a02ca53c920f03e9ef50844ac5ca4e15e59de75bccfb; ab_sr=1.0.1_NjBjMjM3MTUzZTA4ODY4NDFmMDZiNzdkZjRjMzA5ZWNmYThiMWRiYjE5ZTRhYjE2ZjJlMzgwZTAyNWU2MzNlODJlOTc0MzQ5Mjg1ZDQwZWRhZmNiZjgzNWZkZTRjNGI3MWYyOTBiMDdlNzk5NGQzYWZjYjM3YjFmZWNlNGRiZDg2YTE3NTczYTBlYWIzMzJkYjA5ZmJmNTgwOWUyOTNkNQ==; antiBot={"data":"f2b821616de261df9ceb6548254506b05410351964a00718f376e3d64b834a2b014ccd420d97f4954ddc6c308e476e7d607a26fac259bcaa7bd4059716c29aae5ebc8178b06b1f813f8fbfcb320d572978741169ffd9d056154a4444ab1acfec","key_id":"29","sign":"84d62907"}',
+};
 
 module.exports = {
   OilInfo,
@@ -339,5 +419,6 @@ module.exports = {
   MonthsMap,
   StockMap,
   GoldMap,
-  WeatherMap
+  WeatherMap,
+  CarInfo
 }
