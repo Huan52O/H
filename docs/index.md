@@ -4,18 +4,18 @@ layout: home
 
 hero:
   name: "Hello's Blog"
-  text: "Just browse around"
+  text: "人生若只如初见"
   tagline: 
   image:
     src: /mofang.svg
     alt: mofang
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 快速开始
+      link: /markdown
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 发现精彩
+      link: /stock
 
 features:
   - title: 股市大盘
@@ -59,5 +59,11 @@ features:
       src: /weather.svg
     details: 实时追踪台风、暴雨、高温等极端天气预警及每日天气趋势
     link: /weather
+    linkText: 查看详情
+  - title: 汽车销量
+    icon:
+      src: /car.svg
+    details: 实时更新全球及国内汽车销量数据、热门车型趋势分析
+    link: /car-sale
     linkText: 查看详情
 ---
