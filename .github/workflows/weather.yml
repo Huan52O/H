@@ -15,13 +15,7 @@ jobs:
   start:
     runs-on: ubuntu-latest
 
-    env: 
-      EMAIL_NAME: ${{ secrets.EMAIL_NAME }}
-
     steps:
-      - name: Run a one-line script
-        run: echo $EMAIL_NAME  # 打印环境变量值以确认其存在和正确性
-
       - uses: actions/checkout@v4 
 
       - name: Setup Node.js

@@ -97,8 +97,6 @@ const getWeather = async (city, location) => {
 };
 
 const runTask = async () => {
-  const email = process.env.EMAIL_NAME;
-  console.log("Email:", email); 
   const list = [];
   for (const city of Citys) {
     const { firstName, lastName } = city;
