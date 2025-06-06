@@ -19,7 +19,8 @@ export default defineConfig({
         items: [
           { text: 'Markdown扩展', link: '/markdown' },
           { text: '资源处理', link: '/asset-handling' },
-          { text: '在Markdown使用Vue', link: '/using-vue' }
+          { text: '在Markdown使用Vue', link: '/using-vue' },
+          { text: 'Github Actions食用', link: '/github-actions' },
         ]
       },
       {

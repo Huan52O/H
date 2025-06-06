@@ -5,7 +5,7 @@
 值得注意的是，VitePress 利用 Vue 的编译器自动检测和优化 Markdown 内容的纯静态部分。静态内容被优化为单个占位符节点，并从页面的 JavaScript 负载中删除以供初始访问。在客户端激活期间也会跳过它们。简而言之，只需注意任何给定页面上的动态部分。
 
 ::: tip SSR 兼容性
-所有的 Vue 用法都需要兼容 SSR。参见 [SSR 兼容性](./ssr-compat)获得更多信息和常见的解决方案。
+所有的 Vue 用法都需要兼容 SSR。参见 `[SSR 兼容性](./ssr-compat)`获得更多信息和常见的解决方案。
 :::
 
 ## 模板化 {#templating}
@@ -71,7 +71,7 @@ The count is: {{ count }}
 在 Markdown 中使用时，`<style scoped>` 需要为当前页面的每个元素添加特殊属性，这将显著增加页面的大小。当我们需要局部范围的样式时 `<style module>` 是首选。
 :::
 
-还可以访问 VitePress 的运行时 API，例如 [`useData` 辅助函数](../reference/runtime-api#usedata)，它提供了当前页面的元数据：
+还可以访问 VitePress 的运行时 API，例如 `[`useData` 辅助函数](../reference/runtime-api#usedata)`，它提供了当前页面的元数据：
 
 **输入**
 
@@ -122,7 +122,7 @@ This is a .md using a custom component
 
 ### 注册全局组件 {#registering-components-globally}
 
-如果一个组件要在大多数页面上使用，可以通过自定义 Vue 实例来全局注册它们。有关示例，请参见[扩展默认主题](./extending-default-theme#registering-global-components)中的相关部分。
+如果一个组件要在大多数页面上使用，可以通过自定义 Vue 实例来全局注册它们。有关示例，请参见`[扩展默认主题](./extending-default-theme#registering-global-components)`中的相关部分。
 
 ::: warning 重要
 确保自定义组件的名称包含连字符或采用 PascalCase。否则，它将被视为内联元素并包裹在 `<p>` 标签内，这将导致激活不匹配，因为 `<p>` 不允许将块元素放置在其中。

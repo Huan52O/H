@@ -16,7 +16,7 @@
 在 Markdown 内，通过链接引用的 PDF 或者其他文档不会被自动视作资源。要使这些文件可用，你必须手动将其放在项目的 [`public`](#the-public-directory) 目录内。
 :::
 
-所有引用的资源，包括那些使用绝对路径的，都会在生产构建过程中被复制到输出目录，并使用哈希文件名。从未使用过的资源将不会被复制。小于 4kb 的图像资源将会采用 base64 内联——这可以通过 [`vite`](../reference/site-config#vite) 配置选项进行配置。
+所有引用的资源，包括那些使用绝对路径的，都会在生产构建过程中被复制到输出目录，并使用哈希文件名。从未使用过的资源将不会被复制。小于 4kb 的图像资源将会采用 base64 内联——这可以通过 `[`vite`](../reference/site-config#vite)` 配置选项进行配置。
 
 所有**静态**路径引用，包括绝对路径，都应基于你的工作目录的结构。
 
@@ -24,7 +24,7 @@
 
 有时可能需要一些静态资源，但这些资源没有直接被 Markdown 或主题组件直接引用，或者你可能想以原始文件名提供某些文件，像 `robots.txt`，favicons 和 PWA 图标这样的文件。
 
-可以将这些文件放置在[源目录](./routing#source-directory)的 `public` 目录中。例如，如果项目根目录是 `./docs`，并且使用默认源目录位置，那么 public 目录将是 `./docs/public`。
+可以将这些文件放置在`[源目录](./routing#source-directory)`的 `public` 目录中。例如，如果项目根目录是 `./docs`，并且使用默认源目录位置，那么 public 目录将是 `./docs/public`。
 
 放置在 `public` 中的资源将按原样复制到输出目录的根目录中。
 
@@ -48,7 +48,7 @@
 <img :src="theme.logoPath" />
 ```
 
-在这种情况下，建议使用 VitePress 提供的 [`withBase` helper](../reference/runtime-api#withbase) 来包括路径：
+在这种情况下，建议使用 VitePress 提供的 `[`withBase` helper](../reference/runtime-api#withbase)` 来包括路径：
 
 ```vue
 <script setup>
