@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as t}from"./chunks/framework.C-voQVsB.js";const c=JSON.parse('{"title":"Markdown 扩展","description":"","frontmatter":{},"headers":[],"relativePath":"markdown.md","filePath":"markdown.md"}'),l={name:"markdown.md"};function e(p,s,h,k,d,r){return n(),a("div",null,s[0]||(s[0]=[t("",170)]))}const g=i(l,[["render",e]]);export{c as __pageData,g as default};
