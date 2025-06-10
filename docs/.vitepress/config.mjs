@@ -35,6 +35,17 @@ export default defineConfig({
           { text: '天气卡片', link: '/weather' },
           { text: '汽车销量', link: '/car-sale' },
         ]
+      },
+      {
+        text: '汽车',
+        items: [
+          { text: '雅阁 2022', link: '/cars/accord-2022' },
+          { text: '雷克萨斯ES 2025', link: '/cars/lexus-ES-2025' },
+          { text: '沃尔沃S90 2026', link: '/cars/volvo-S90-2026' },
+          { text: '奔驰E级 2025', link: '/cars/benz-E-2025' },
+          { text: '宝马5系 2025', link: '/cars/bmw-5-2025' },
+          { text: '奥迪A6L 2026', link: '/cars/audi-A6L-2026' },
+        ]
       }
     ],
 
