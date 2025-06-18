@@ -45,6 +45,11 @@ export default defineConfig({
           { text: '奔驰E级 2025', link: '/cars/benz-E-2025' },
           { text: '宝马5系 2025', link: '/cars/bmw-5-2025' },
           { text: '奥迪A6L 2026', link: '/cars/audi-A6L-2026' },
+          { text: '奔驰GLE 2025', link: '/cars/benz-GLE-2025' },
+          { text: '宝马X5 2023', link: '/cars/bmw-X5-2023' },
+          { text: '奥迪Q7 2025', link: '/cars/audi-Q7-2025' },
+          { text: '沃尔沃XC90 2025', link: '/cars/volvo-XC90-2025' },
+          { text: '沃尔沃XC60 2025', link: '/cars/volvo-XC60-2025' },
         ]
       }
     ],
