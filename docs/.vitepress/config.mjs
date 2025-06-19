@@ -42,14 +42,20 @@ export default defineConfig({
           { text: '雅阁 2022', link: '/cars/accord-2022' },
           { text: '雷克萨斯ES 2025', link: '/cars/lexus-ES-2025' },
           { text: '沃尔沃S90 2026', link: '/cars/volvo-S90-2026' },
-          { text: '奔驰E级 2025', link: '/cars/benz-E-2025' },
           { text: '宝马5系 2025', link: '/cars/bmw-5-2025' },
           { text: '奥迪A6L 2026', link: '/cars/audi-A6L-2026' },
-          { text: '奔驰GLE 2025', link: '/cars/benz-GLE-2025' },
+          { text: '奔驰E级 2025', link: '/cars/benz-E-2025' },
           { text: '宝马X5 2023', link: '/cars/bmw-X5-2023' },
+          { text: '奔驰GLE 2025', link: '/cars/benz-GLE-2025' },
           { text: '奥迪Q7 2025', link: '/cars/audi-Q7-2025' },
-          { text: '沃尔沃XC90 2025', link: '/cars/volvo-XC90-2025' },
           { text: '沃尔沃XC60 2025', link: '/cars/volvo-XC60-2025' },
+          { text: '沃尔沃XC90 2025', link: '/cars/volvo-XC90-2025' },
+          { text: '奥迪A7 2025', link: '/cars/audi-A7-2025' },
+          { text: '宝马7系 2023', link: '/cars/bmw-7-2023' },
+          { text: '奥迪A8 2025', link: '/cars/audi-A8L-2025' },
+          { text: '奥迪A8 Horch 2025', link: '/cars/audi-A8L-Horch-2025' },
+          { text: '奔驰S级 2025', link: '/cars/benz-S-2025' },
+          
         ]
       }
     ],
