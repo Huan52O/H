@@ -1463,7 +1463,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">零跑C16</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">15.58-18.98万</span>
+                        <span style="color:#8d99ae;">15.18-18.98万</span>
                         <span style="color:#ef233c; font-weight:700;">4339</span>
                       </div>
                     </div>
@@ -1609,7 +1609,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">17</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1692339765466960c49f.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/175023524776592b71a9.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">豹8</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -1658,7 +1658,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">深蓝G318</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">17.59-22.99万</span>
+                        <span style="color:#8d99ae;">18.59-22.99万</span>
                         <span style="color:#ef233c; font-weight:700;">1484</span>
                       </div>
                     </div>
@@ -2872,7 +2872,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2025-06-18 14:48:28
+          © 2025 AutoTrack 更新于：2025-06-19 10:23:23
       </p>
   </div>
 </div>
