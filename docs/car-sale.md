@@ -1145,7 +1145,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">宝骏享境</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">12.98-18.88万</span>
+                        <span style="color:#8d99ae;">12.98-15.38万</span>
                         <span style="color:#ef233c; font-weight:700;">583</span>
                       </div>
                     </div>
@@ -2872,7 +2872,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2025-06-21 14:45:00
+          © 2025 AutoTrack 更新于：2025-06-22 10:32:29
       </p>
   </div>
 </div>
