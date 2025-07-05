@@ -156,6 +156,21 @@
       <div style="display:flex;flex-direction:column;gap:16px;">
         <div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
                       border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
+                      <div style="text-align:center;font-size:14px;">20250704</div>
+                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">41</div>
+                      <div style="text-align:center;font-size:14px;color:#2ed573;">
+                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-37.88%
+                      </div>
+                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">13</div>
+                      <div style="text-align:center;font-size:14px;color:#ff4757;">
+                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+44.44%
+                      </div>
+                      <div style="text-align:center;font-size:14px;">14285.58</div>
+                      <div style="text-align:center;font-size:14px;color:#ff4757;">
+                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+9.07%
+                      </div>
+                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
+                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
                       <div style="text-align:center;font-size:14px;">20250703</div>
                       <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">66</div>
                       <div style="text-align:center;font-size:14px;color:#ff4757;">
@@ -204,6 +219,6 @@
   </div>
   <div style="text-align:center;margin-top:30px;color:#999;font-size:12px;">
     <p style="margin:4px 0;">© 2025 数据观察</p>
-    <p style="margin:4px 0;">更新时间：2025-07-04 15:00:34</p>
+    <p style="margin:4px 0;">更新时间：2025-07-05 10:26:15</p>
   </div>
 </div>
