@@ -2872,7 +2872,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2025-08-02 14:48:36
+          © 2025 AutoTrack 更新于：2025-08-03 10:45:07
       </p>
   </div>
 </div>
