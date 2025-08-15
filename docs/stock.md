@@ -3,71 +3,71 @@
     <div style="display:flex;flex-direction:column;gap:20px;">
       <div style="height:350px;display:flex;align-items:flex-end;justify-content:space-around;border-bottom:2px solid #e0e0e0;">
         <div style="width:8%;text-align:center;">
-                    <div style="height:2px;background:#218c74;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:0px;background:#218c74;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(33,140,116,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">16</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">2</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">跌停</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:5px;background:#2ed573;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:2px;background:#2ed573;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(123,237,159,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">37</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">17</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">>8%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:26px;background:#7bed9f;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:1px;background:#7bed9f;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(123,237,159,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">211</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">15</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">5-8%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:290px;background:#a8fac2;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:11px;background:#a8fac2;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(123,237,159,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">2332</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">116</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">2-5%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:225px;background:#b6ffcd;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:90px;background:#b6ffcd;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(123,237,159,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">1810</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">919</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">0-2%</p>
                   </div>
         <div style="width:8%;text-align:center;">
-                    <div style="height:5px;background:#e5ffe7;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:24px;background:#e5ffe7;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">37</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">242</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">0%</p>
                   </div>
         <div style="width:8%;text-align:center;">
-                    <div style="height:47px;background:#ffbcc6;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:290px;background:#ffbcc6;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">374</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">2954</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">0-2%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:26px;background:#ff8c9d;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:66px;background:#ff8c9d;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">209</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">675</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">2-5%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:6px;background:#ff6178;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:12px;background:#ff6178;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">52</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">124</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">5-8%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:3px;background:#f42947;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:4px;background:#f42947;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">23</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">44</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">>8%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:6px;background:#ef1326;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:4px;background:#ef1326;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">52</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">45</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">涨停</p>
                   </div>
@@ -82,7 +82,7 @@
       box-shadow:0 12px 32px rgba(0,0,0,0.08);">  
       <div style="display:flex;flex-wrap:wrap;gap:24px;justify-content:center;align-items:center;">
         <div style="position:relative;width:24px;height:200px;background:#e9edf2;border-radius:12px;overflow:hidden;">
-          <div style="position:absolute;bottom:0;width:100%;height:17%;background:linear-gradient(180deg,#ff4757 20%,#ff6b81 80%);
+          <div style="position:absolute;bottom:0;width:100%;height:79%;background:linear-gradient(180deg,#ff4757 20%,#ff6b81 80%);
             border-radius:12px;transition:height 0.5s ease-in-out;box-shadow:0 0 12px rgba(255,71,87,0.3);">
           </div>
           <div style="position:absolute;top:0;left:0;width:100%;height:100%;">
@@ -101,13 +101,13 @@
             </div>
             <div style="display:flex;align-items:center;gap:12px;">
               <span style="font-size:14px;font-weight:500;">停牌家数</span>
-              <span style="font-size:24px;font-weight:800;">11</span>
+              <span style="font-size:24px;font-weight:800;">12</span>
             </div>
             <div style="display:flex;align-items:center;gap:12px;">
               <span style="font-size:14px;font-weight:500;">市场热度</span>
               <span style="font-size:24px;font-weight:800;
                   background:linear-gradient(135deg,#ff4757 30%,#ff6b81 70%);-webkit-background-clip:text;color:transparent;">
-                  17.3742℃
+                  79.9153℃
               </span>
             </div>
           </div>
@@ -117,27 +117,27 @@
       <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(150px,1fr));gap:16px;">
         <div style="background:rgba(255,71,87,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#ff4757;margin:0 0 8px 0;font-weight:500;">上涨家数</p>
-            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">710</p>
+            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">3842</p>
         </div>
         <div style="background:rgba(255,71,87,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#ff4757;margin:0 0 8px 0;font-weight:500;">涨停家数</p>
-            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">52</p>
+            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">45</p>
         </div>
         <div style="background:rgba(255,71,87,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#ff4757;margin:0 0 8px 0;font-weight:500;">涨幅&gt;5%</p>
-            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">127</p>
+            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">213</p>
         </div>
         <div style="background:rgba(46,213,115,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#2ed573;margin:0 0 8px 0;font-weight:500;">下跌家数</p>
-            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">4406</p>
+            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">1069</p>
         </div>
         <div style="background:rgba(46,213,115,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#2ed573;margin:0 0 8px 0;font-weight:500;">跌停家数</p>
-            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">16</p>
+            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">2</p>
         </div>
         <div style="background:rgba(46,213,115,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#2ed573;margin:0 0 8px 0;font-weight:500;">跌幅&gt;5%</p>
-            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">264</p>
+            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">34</p>
         </div>
       </div>
   </div>
@@ -155,6 +155,21 @@
       </div>
       <div style="display:flex;flex-direction:column;gap:16px;">
         <div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
+                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
+                      <div style="text-align:center;font-size:14px;">20250814</div>
+                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">52</div>
+                      <div style="text-align:center;font-size:14px;color:#2ed573;">
+                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-48.00%
+                      </div>
+                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">16</div>
+                      <div style="text-align:center;font-size:14px;color:#ff4757;">
+                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+220.00%
+                      </div>
+                      <div style="text-align:center;font-size:14px;">22792.09</div>
+                      <div style="text-align:center;font-size:14px;color:#ff4757;">
+                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+5.96%
+                      </div>
+                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
                       border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
                       <div style="text-align:center;font-size:14px;">20250813</div>
                       <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">100</div>
@@ -294,6 +309,6 @@
   </div>
   <div style="text-align:center;margin-top:30px;color:#999;font-size:12px;">
     <p style="margin:4px 0;">© 2025 数据观察</p>
-    <p style="margin:4px 0;">更新时间：2025-08-14 15:00:46</p>
+    <p style="margin:4px 0;">更新时间：2025-08-15 10:32:58</p>
   </div>
 </div>
