@@ -1459,11 +1459,11 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#32badd; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">6</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/171680794823086ed957.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1693202726946903d017.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
-                      <div style="font-weight:700; color:#2b2d42;">问界M7</div>
+                      <div style="font-weight:700; color:#2b2d42;">岚图FREE</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">24.98-32.98万</span>
+                        <span style="color:#8d99ae;">21.99-27.99万</span>
                         <span style="color:#ef233c; font-weight:700;">4273</span>
                       </div>
                     </div>
@@ -1474,11 +1474,11 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#32badd; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">7</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1693202726946903d017.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/171680794823086ed957.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
-                      <div style="font-weight:700; color:#2b2d42;">岚图FREE</div>
+                      <div style="font-weight:700; color:#2b2d42;">问界M7</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">21.99-27.99万</span>
+                        <span style="color:#8d99ae;">24.98-32.98万</span>
                         <span style="color:#ef233c; font-weight:700;">4273</span>
                       </div>
                     </div>
@@ -2887,7 +2887,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2025-08-26 10:15:57
+          © 2025 AutoTrack 更新于：2025-08-26 14:48:33
       </p>
   </div>
 </div>
