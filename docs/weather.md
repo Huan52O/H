@@ -5,11 +5,11 @@
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-bottom: 40px; position: relative;">
     <div style="background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px); grid-column: 1 / 3;">
       <div style="font-size: 2.4em; font-weight: 300; margin-bottom: 15px;">北京市</div>
-      <div style="font-size: 4.2em; font-weight: 600; margin: 20px 0; position: relative;">27<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
+      <div style="font-size: 4.2em; font-weight: 600; margin: 20px 0; position: relative;">31<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌡️ 体感：略微偏热，注意衣物变化。</div>
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">💧 湿度：46%</div>
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🍃 风向：东北风2级</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌡️ 体感：有些热了，记得多喝水。</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">💧 湿度：20%</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🍃 风向：东北风3级</div>
         <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌞 天气：晴</div>
       </div>
     </div>
@@ -17,8 +17,8 @@
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 40px;">
     <div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1); display: flex; flex-direction: column; justify-content: space-evently;">
                 <div style="font-size:1.2em;margin-bottom:15px;">📅 今天</div>
-                <div style="font-size:2em;">17 / 30<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
-                <div style="color:#aab2c0;margin-top:8px;">35 优</div>
+                <div style="font-size:2em;">17 / 31<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
+                <div style="color:#aab2c0;margin-top:8px;">27 优</div>
                 <div style="margin-top:15px;">☀️ 晴</div>
               </div><div style="background: rgba(255,255,255,0.25); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1.05); display: flex; flex-direction: column; justify-content: space-evently;">
                 <div style="font-size:1.2em;margin-bottom:15px;">📅 明天</div>
@@ -34,11 +34,11 @@
   </div>,<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-bottom: 40px; position: relative;">
     <div style="background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px); grid-column: 1 / 3;">
       <div style="font-size: 2.4em; font-weight: 300; margin-bottom: 15px;">上海市</div>
-      <div style="font-size: 4.2em; font-weight: 600; margin: 20px 0; position: relative;">33<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
+      <div style="font-size: 4.2em; font-weight: 600; margin: 20px 0; position: relative;">34<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌡️ 体感：很闷热，感觉像在蒸桑拿。</div>
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">💧 湿度：62%</div>
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🍃 风向：东北风1级</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌡️ 体感：今天有雨，闷热难当，简直可以拧出水了。</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">💧 湿度：59%</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🍃 风向：西风1级</div>
         <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌞 天气：多云</div>
       </div>
     </div>
@@ -47,13 +47,13 @@
     <div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1); display: flex; flex-direction: column; justify-content: space-evently;">
                 <div style="font-size:1.2em;margin-bottom:15px;">📅 今天</div>
                 <div style="font-size:2em;">27 / 36<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
-                <div style="color:#aab2c0;margin-top:8px;">45 优</div>
-                <div style="margin-top:15px;">☁️ 阴</div>
+                <div style="color:#aab2c0;margin-top:8px;">98 良</div>
+                <div style="margin-top:15px;">🌧️➕🌂 小雨</div>
               </div><div style="background: rgba(255,255,255,0.25); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1.05); display: flex; flex-direction: column; justify-content: space-evently;">
                 <div style="font-size:1.2em;margin-bottom:15px;">📅 明天</div>
                 <div style="font-size:2em;">27 / 36<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
                 <div style="color:#aab2c0;margin-top:8px;">88 良</div>
-                <div style="margin-top:15px;">☁️ 阴</div>
+                <div style="margin-top:15px;">🌧️➕🌂 小雨</div>
               </div><div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1); display: flex; flex-direction: column; justify-content: space-evently;">
                 <div style="font-size:1.2em;margin-bottom:15px;">📅 后天</div>
                 <div style="font-size:2em;">25 / 32<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
@@ -63,40 +63,11 @@
   </div>,<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-bottom: 40px; position: relative;">
     <div style="background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px); grid-column: 1 / 3;">
       <div style="font-size: 2.4em; font-weight: 300; margin-bottom: 15px;">广州市</div>
-      <div style="font-size: 4.2em; font-weight: 600; margin: 20px 0; position: relative;">32<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
+      <div style="font-size: 4.2em; font-weight: 600; margin: 20px 0; position: relative;">33<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
       <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌡️ 体感：今天有雨，有些热了，记得多喝水。</div>
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">💧 湿度：65%</div>
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🍃 风向：东北风3级</div>
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌞 天气：晴</div>
-      </div>
-    </div>
-  </div>   
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 40px;">
-    <div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1); display: flex; flex-direction: column; justify-content: space-evently;">
-                <div style="font-size:1.2em;margin-bottom:15px;">📅 今天</div>
-                <div style="font-size:2em;">25 / 32<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
-                <div style="color:#aab2c0;margin-top:8px;">33 优</div>
-                <div style="margin-top:15px;">🌧️➕☔ 中雨</div>
-              </div><div style="background: rgba(255,255,255,0.25); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1.05); display: flex; flex-direction: column; justify-content: space-evently;">
-                <div style="font-size:1.2em;margin-bottom:15px;">📅 明天</div>
-                <div style="font-size:2em;">25 / 28<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
-                <div style="color:#aab2c0;margin-top:8px;">45 优</div>
-                <div style="margin-top:15px;">🌧️➕☔ 中雨</div>
-              </div><div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1); display: flex; flex-direction: column; justify-content: space-evently;">
-                <div style="font-size:1.2em;margin-bottom:15px;">📅 后天</div>
-                <div style="font-size:2em;">25 / 31<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
-                <div style="color:#aab2c0;margin-top:8px;">50 优</div>
-                <div style="margin-top:15px;">🌧️➕☔ 中雨</div>
-              </div>
-  </div>,<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-bottom: 40px; position: relative;">
-    <div style="background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px); grid-column: 1 / 3;">
-      <div style="font-size: 2.4em; font-weight: 300; margin-bottom: 15px;">衡南县</div>
-      <div style="font-size: 4.2em; font-weight: 600; margin: 20px 0; position: relative;">27<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌡️ 体感：略微偏热，注意衣物变化。</div>
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">💧 湿度：90%</div>
-        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🍃 风向：北风3级</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌡️ 体感：今天有雨，很闷热，感觉像在蒸桑拿。</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">💧 湿度：60%</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🍃 风向：东风2级</div>
         <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌞 天气：多云</div>
       </div>
     </div>
@@ -104,13 +75,42 @@
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 40px;">
     <div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1); display: flex; flex-direction: column; justify-content: space-evently;">
                 <div style="font-size:1.2em;margin-bottom:15px;">📅 今天</div>
-                <div style="font-size:2em;">25 / 35<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
+                <div style="font-size:2em;">24 / 34<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
+                <div style="color:#aab2c0;margin-top:8px;">24 优</div>
+                <div style="margin-top:15px;">⛈️➕⚡ 雷阵雨</div>
+              </div><div style="background: rgba(255,255,255,0.25); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1.05); display: flex; flex-direction: column; justify-content: space-evently;">
+                <div style="font-size:1.2em;margin-bottom:15px;">📅 明天</div>
+                <div style="font-size:2em;">24 / 29<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
+                <div style="color:#aab2c0;margin-top:8px;">45 优</div>
+                <div style="margin-top:15px;">⛈️ 大到暴雨</div>
+              </div><div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1); display: flex; flex-direction: column; justify-content: space-evently;">
+                <div style="font-size:1.2em;margin-bottom:15px;">📅 后天</div>
+                <div style="font-size:2em;">24 / 29<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
                 <div style="color:#aab2c0;margin-top:8px;">50 优</div>
+                <div style="margin-top:15px;">🌧️➕🌊 大雨</div>
+              </div>
+  </div>,<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-bottom: 40px; position: relative;">
+    <div style="background: rgba(255,255,255,0.05); border-radius: 15px; padding: 20px; backdrop-filter: blur(10px); grid-column: 1 / 3;">
+      <div style="font-size: 2.4em; font-weight: 300; margin-bottom: 15px;">衡南县</div>
+      <div style="font-size: 4.2em; font-weight: 600; margin: 20px 0; position: relative;">32<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌡️ 体感：很闷热，感觉像在蒸桑拿。</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">💧 湿度：68%</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🍃 风向：北风2级</div>
+        <div style="display: flex; align-items: center; padding: 12px; background: rgba(255,255,255,0.03); border-radius: 8px;">🌞 天气：晴</div>
+      </div>
+    </div>
+  </div>   
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 40px;">
+    <div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1); display: flex; flex-direction: column; justify-content: space-evently;">
+                <div style="font-size:1.2em;margin-bottom:15px;">📅 今天</div>
+                <div style="font-size:2em;">25 / 35<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
+                <div style="color:#aab2c0;margin-top:8px;">41 优</div>
                 <div style="margin-top:15px;">⛅ 多云</div>
               </div><div style="background: rgba(255,255,255,0.25); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1.05); display: flex; flex-direction: column; justify-content: space-evently;">
                 <div style="font-size:1.2em;margin-bottom:15px;">📅 明天</div>
                 <div style="font-size:2em;">25 / 37<span style="font-size: 0.4em; vertical-align: super;">°C</span></div>
-                <div style="color:#aab2c0;margin-top:8px;">40 优</div>
+                <div style="color:#aab2c0;margin-top:8px;">41 优</div>
                 <div style="margin-top:15px;">🌧️➕🌂 小雨</div>
               </div><div style="background: rgba(255,255,255,0.1); border-radius: 12px; padding: 25px; text-align: center; transform: scale(1); display: flex; flex-direction: column; justify-content: space-evently;">
                 <div style="font-size:1.2em;margin-bottom:15px;">📅 后天</div>
@@ -121,7 +121,7 @@
   </div>   
   <footer style="text-align: center; padding: 40px 0 20px; color: #6d7a8f; font-size: 0.9em;">
     <p>© 2025 气象数据服务中心</p>
-    <p>更新时间：2025-09-07 10:49:38</p>
+    <p>更新时间：2025-09-07 14:45:10</p>
     <p style="margin-top:8px">数据来源：中国气象局</p>
   </footer>
 </div>
