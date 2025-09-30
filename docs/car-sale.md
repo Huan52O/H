@@ -47,7 +47,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">帕萨特</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">16.45-23.99万</span>
+                        <span style="color:#8d99ae;">16.45-30.98万</span>
                         <span style="color:#ef233c; font-weight:700;">18695</span>
                       </div>
                     </div>
@@ -1553,7 +1553,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">途昂</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">24.9-38.9万</span>
+                        <span style="color:#8d99ae;">28.9-35.99万</span>
                         <span style="color:#ef233c; font-weight:700;">3182</span>
                       </div>
                     </div>
@@ -2902,7 +2902,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2025-09-29 14:47:58
+          © 2025 AutoTrack 更新于：2025-09-30 10:01:19
       </p>
   </div>
 </div>
