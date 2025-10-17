@@ -2482,7 +2482,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">21</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/169390149947352e6669.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/176066981176692e6669.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">零跑C10</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -2527,7 +2527,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">24</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17362443965502dfba3f.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17606702497087dfba3f.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">零跑B01</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -2782,7 +2782,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">41</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/172890228712144964d9.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/176067047543434964d9.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">零跑B10</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -2932,7 +2932,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2025-10-17 10:09:23
+          © 2025 AutoTrack 更新于：2025-10-17 14:45:33
       </p>
   </div>
 </div>
