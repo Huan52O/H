@@ -32,7 +32,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">秦L</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">9.98-15.38万</span>
+                        <span style="color:#8d99ae;">9.68-15.38万</span>
                         <span style="color:#ef233c; font-weight:700;">27382</span>
                       </div>
                     </div>
@@ -2093,7 +2093,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">领克09</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">25.88-26.58万</span>
+                        <span style="color:#8d99ae;">23.88-26.58万</span>
                         <span style="color:#ef233c; font-weight:700;">351</span>
                       </div>
                     </div>
@@ -2276,7 +2276,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">秦L</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">9.98-15.38万</span>
+                        <span style="color:#8d99ae;">9.68-15.38万</span>
                         <span style="color:#ef233c; font-weight:700;">27382</span>
                       </div>
                     </div>
@@ -2426,7 +2426,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">宋Pro新能源</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">10.28-14.28万</span>
+                        <span style="color:#8d99ae;">10.28-13.28万</span>
                         <span style="color:#ef233c; font-weight:700;">13542</span>
                       </div>
                     </div>
@@ -2932,7 +2932,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2025-10-23 14:47:02
+          © 2025 AutoTrack 更新于：2025-10-24 10:07:24
       </p>
   </div>
 </div>
