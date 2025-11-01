@@ -1334,10 +1334,8 @@
           #cacaca; border-radius: 15px;">
               30<span style="display:none;"></span>
           </div><div style="text-align:center; padding:6px; opacity:1; background:
-          #eb87bf; border-radius: 15px;">
-              31<div style="font-size:12px; font-weight: 600; line-height:1.2;">
-                          今天
-                        </div>
+          #cacaca; border-radius: 15px;">
+              31<span style="display:none;"></span>
           </div><div style="text-align:center; padding:6px; opacity:0; background:
           #87d8eb; border-radius: 15px;">
               <span style="display:none;"></span>
@@ -1369,8 +1367,10 @@
           #87d8eb; border-radius: 15px;">
               <span style="display:none;"></span>
           </div><div style="text-align:center; padding:6px; opacity:1; background:
-          #87d8eb; border-radius: 15px;">
-              1<span style="display:none;"></span>
+          #eb87bf; border-radius: 15px;">
+              1<div style="font-size:12px; font-weight: 600; line-height:1.2;">
+                          今天
+                        </div>
           </div><div style="text-align:center; padding:6px; opacity:1; background:
           #87d8eb; border-radius: 15px;">
               2<span style="display:none;"></span>
@@ -3151,7 +3151,7 @@
   </div> 
   <div style="padding:25px; background:#2A2840; border-radius:0 0 20px 20px; text-align:center;">
     <p style="margin:0; color:#A5B3FD; font-size:12px; line-height:1.6;">
-        🕒 最后更新：2025-10-31 14:52:55<br>
+        🕒 最后更新：2025-11-01 10:21:49<br>
         © 2025 TimeWarp 日历实验室
     </p>
   </div>
