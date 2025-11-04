@@ -5,69 +5,69 @@
         <div style="width:8%;text-align:center;">
                     <div style="height:1px;background:#218c74;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(33,140,116,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">12</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">7</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">跌停</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:3px;background:#2ed573;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:2px;background:#2ed573;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(123,237,159,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">26</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">16</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">>8%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:6px;background:#7bed9f;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:7px;background:#7bed9f;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(123,237,159,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">46</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">60</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">5-8%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:47px;background:#a8fac2;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:102px;background:#a8fac2;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(123,237,159,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">376</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">907</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">2-5%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:147px;background:#b6ffcd;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:290px;background:#b6ffcd;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(123,237,159,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">1182</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">2589</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">0-2%</p>
                   </div>
         <div style="width:8%;text-align:center;">
-                    <div style="height:13px;background:#e5ffe7;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:17px;background:#e5ffe7;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">102</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">154</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">0%</p>
                   </div>
         <div style="width:8%;text-align:center;">
-                    <div style="height:290px;background:#ffbcc6;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:125px;background:#ffbcc6;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">2337</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">1118</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">0-2%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:100px;background:#ff8c9d;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:25px;background:#ff8c9d;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">806</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">219</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">2-5%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:18px;background:#ff6178;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:5px;background:#ff6178;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">148</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">43</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">5-8%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:5px;background:#f42947;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:1px;background:#f42947;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">37</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">9</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">>8%</p>
                   </div><div style="width:8%;text-align:center;">
-                    <div style="height:11px;background:#ef1326;border-radius:4px 4px 0 0;transition:all 0.3s ease;
+                    <div style="height:5px;background:#ef1326;border-radius:4px 4px 0 0;transition:all 0.3s ease;
                         box-shadow:0 4px 12px rgba(255,71,87,0.2);position:relative;">
-                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">92</span>
+                        <span style="position:absolute;top:-24px;left:50%;transform:translateX(-50%);font-size:12px;color:#218c74;font-weight:600;display:inline-block;width:30px;">42</span>
                     </div>
                     <p style="font-size:10px;color:#333;margin:8px 0;">涨停</p>
                   </div>
@@ -82,7 +82,7 @@
       box-shadow:0 12px 32px rgba(0,0,0,0.08);">  
       <div style="display:flex;flex-wrap:wrap;gap:24px;justify-content:center;align-items:center;">
         <div style="position:relative;width:24px;height:200px;background:#e9edf2;border-radius:12px;overflow:hidden;">
-          <div style="position:absolute;bottom:0;width:100%;height:69%;background:linear-gradient(180deg,#ff4757 20%,#ff6b81 80%);
+          <div style="position:absolute;bottom:0;width:100%;height:34%;background:linear-gradient(180deg,#ff4757 20%,#ff6b81 80%);
             border-radius:12px;transition:height 0.5s ease-in-out;box-shadow:0 0 12px rgba(255,71,87,0.3);">
           </div>
           <div style="position:absolute;top:0;left:0;width:100%;height:100%;">
@@ -107,7 +107,7 @@
               <span style="font-size:14px;font-weight:500;">市场热度</span>
               <span style="font-size:24px;font-weight:800;
                   background:linear-gradient(135deg,#ff4757 30%,#ff6b81 70%);-webkit-background-clip:text;color:transparent;">
-                  69.3264℃
+                  34.0248℃
               </span>
             </div>
           </div>
@@ -117,27 +117,27 @@
       <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(150px,1fr));gap:16px;">
         <div style="background:rgba(255,71,87,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#ff4757;margin:0 0 8px 0;font-weight:500;">上涨家数</p>
-            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">3420</p>
+            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">1431</p>
         </div>
         <div style="background:rgba(255,71,87,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#ff4757;margin:0 0 8px 0;font-weight:500;">涨停家数</p>
-            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">92</p>
+            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">42</p>
         </div>
         <div style="background:rgba(255,71,87,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#ff4757;margin:0 0 8px 0;font-weight:500;">涨幅&gt;5%</p>
-            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">277</p>
+            <p style="font-size:28px;font-weight:800;color:#ff4757;margin:0;letter-spacing:-1px;">94</p>
         </div>
         <div style="background:rgba(46,213,115,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#2ed573;margin:0 0 8px 0;font-weight:500;">下跌家数</p>
-            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">1642</p>
+            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">3579</p>
         </div>
         <div style="background:rgba(46,213,115,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#2ed573;margin:0 0 8px 0;font-weight:500;">跌停家数</p>
-            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">12</p>
+            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">7</p>
         </div>
         <div style="background:rgba(46,213,115,0.06);border-radius:12px;padding:16px;text-align:center;">
             <p style="font-size:14px;color:#2ed573;margin:0 0 8px 0;font-weight:500;">跌幅&gt;5%</p>
-            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">84</p>
+            <p style="font-size:28px;font-weight:800;color:#2ed573;margin:0;letter-spacing:-1px;">83</p>
         </div>
       </div>
   </div>
@@ -156,264 +156,24 @@
       <div style="display:flex;flex-direction:column;gap:16px;">
         <div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
                       border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251031</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">77</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+24.19%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">18</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+38.46%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">23177.92</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-4.29%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251030</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">62</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>0.00%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">13</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+30.00%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">24216.77</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+7.34%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251029</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">62</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-12.68%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">10</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>-9.09%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">22560.30</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+5.04%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251028</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">71</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+10.94%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">11</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>-45.00%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">21478.60</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-8.22%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251027</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">64</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-11.11%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">20</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+81.82%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">23401.32</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+18.54%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251024</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">72</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>0.00%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">11</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+22.22%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">19742.09</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+20.09%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251023</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">72</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-2.70%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">9</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+12.50%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">16439.10</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-1.44%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251022</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">74</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-18.68%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">8</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+60.00%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">16678.56</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-11.00%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251021</div>
+                      <div style="text-align:center;font-size:14px;">20251103</div>
                       <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">91</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-4.21%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">5</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>-16.67%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">18738.94</div>
                       <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+7.84%
+                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+18.18%
                       </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251020</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">95</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+115.91%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">6</div>
+                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">11</div>
                       <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>-80.65%
+                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>-38.89%
                       </div>
-                      <div style="text-align:center;font-size:14px;">17376.05</div>
+                      <div style="text-align:center;font-size:14px;">21071.31</div>
                       <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-10.35%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251017</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">44</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-20.00%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">31</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+244.44%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">19381.16</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+0.36%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251016</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">55</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-33.73%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">9</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+28.57%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">19311.38</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-6.84%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251015</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">83</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+84.44%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">7</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>-22.22%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">20728.59</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-19.54%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251014</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">45</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-37.50%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">9</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>-10.00%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">25762.33</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+9.41%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251013</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">72</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>0.00%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">10</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>-33.33%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">23547.52</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-6.39%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251010</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">72</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-26.53%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">15</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>-42.31%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">25156.20</div>
-                      <div style="text-align:center;font-size:14px;color:#2ed573;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-5.19%
-                      </div>
-                  </div><div style="display:grid;grid-template-columns:2fr repeat(6,1fr);gap:8px;padding:10px 4px;
-                      border-radius:12px;background:rgba(255,71,87,0.03);transition:all 0.3s ease;">
-                      <div style="text-align:center;font-size:14px;">20251009</div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#ff4757;">98</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+55.56%
-                      </div>
-                      <div style="text-align:center;font-size:14px;font-weight:600;color:#2ed573;">26</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-down" style="margin-right:4px;"></i>+136.36%
-                      </div>
-                      <div style="text-align:center;font-size:14px;">26532.02</div>
-                      <div style="text-align:center;font-size:14px;color:#ff4757;">
-                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>+21.63%
+                          <i class="fa fa-arrow-up" style="margin-right:4px;"></i>-9.09%
                       </div>
                   </div>
       </div>
   </div>
   <div style="text-align:center;margin-top:30px;color:#999;font-size:12px;">
     <p style="margin:4px 0;">© 2025 数据观察</p>
-    <p style="margin:4px 0;">更新时间：2025-11-03 14:58:59</p>
+    <p style="margin:4px 0;">更新时间：2025-11-04 10:22:14</p>
   </div>
 </div>
