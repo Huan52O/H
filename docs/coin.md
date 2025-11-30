@@ -13,19 +13,19 @@
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
               <span style="color:#00f7ff; font-size:12px;">最新价</span>
-              <div style="color:#00ff88; font-size:24px; font-weight:700;">$90985.7</div>
+              <div style="color:#00ff88; font-size:24px; font-weight:700;">$90879.6</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">转换价(7.101)</span>
-              <div style="color:#00ff88; font-size:24px; font-weight:700;">￥646089.46</div>
+              <div style="color:#00ff88; font-size:24px; font-weight:700;">￥645336.04</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">24H量</span>
-              <div style="font-size:18px;">3572.08 BTC</div>
+              <div style="font-size:18px;">3633.09 BTC</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">24H开盘</span>
-              <div style="font-size:16px;">$90554</div>
+              <div style="font-size:16px;">$90489.1</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">24H最高</span>
@@ -52,23 +52,23 @@
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
               <span style="color:#ff00d2; font-size:12px;">最新价</span>
-              <div style="color:#ff4dff; font-size:24px; font-weight:700;">$3006.34</div>
+              <div style="color:#ff4dff; font-size:24px; font-weight:700;">$2997.88</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">转换价(7.101)</span>
-              <div style="color:#ff4dff; font-size:24px; font-weight:700;">￥21348.02</div>
+              <div style="color:#ff4dff; font-size:24px; font-weight:700;">￥21287.95</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">24H量</span>
-              <div style="font-size:18px;">71094.51 ETH</div>
+              <div style="font-size:18px;">64275.54 ETH</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">24H开盘</span>
-              <div style="font-size:16px;">$3025.51</div>
+              <div style="font-size:16px;">$3005.25</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">24H最高</span>
-              <div style="font-size:16px;">$3044.97</div>
+              <div style="font-size:16px;">$3014.53</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">24H最低</span>
@@ -87,7 +87,7 @@
   </div>
   <div style="padding:20px; background:#000716; border-top:2px solid #00f7ff33; text-align:center;">
     <p style="margin:0; color:#fffc00; font-size:14px; line-height:1.6;">
-        ⚡ 数据更新：2025-11-30 10:35:11<br>
+        ⚡ 数据更新：2025-11-30 14:55:03<br>
         © 2025 CryptoVision · 实时行情追踪
     </p>
   </div>
