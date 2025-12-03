@@ -2816,7 +2816,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">深蓝S07</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">14.99-19.79万</span>
+                        <span style="color:#8d99ae;">14.99-17.39万</span>
                         <span style="color:#ef233c; font-weight:700;">8761</span>
                       </div>
                     </div>
@@ -2932,7 +2932,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2025-12-02 14:51:31
+          © 2025 AutoTrack 更新于：2025-12-03 10:21:01
       </p>
   </div>
 </div>
