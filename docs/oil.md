@@ -17,7 +17,7 @@
         </div>
         <div style="font-size: 12px; color: #165DFF; font-weight: 500;">
             <i class="fa-solid fa-clock-rotate-left" style="margin-right: 4px;"></i>
-            <span>10:49:26</span>
+            <span>14:59:58</span>
         </div>
       </div>
     </div>
