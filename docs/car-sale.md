@@ -1276,11 +1276,11 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">35</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17231983249875f766d0.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17108486399216c6b9df.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
-                      <div style="font-weight:700; color:#2b2d42;">宝骏享境</div>
+                      <div style="font-weight:700; color:#2b2d42;">红旗EH7</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">12.98-18.88万</span>
+                        <span style="color:#8d99ae;">20.88-30.98万</span>
                         <span style="color:#ef233c; font-weight:700;">185</span>
                       </div>
                     </div>
@@ -1291,11 +1291,11 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">36</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17108486399216c6b9df.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17231983249875f766d0.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
-                      <div style="font-weight:700; color:#2b2d42;">红旗EH7</div>
+                      <div style="font-weight:700; color:#2b2d42;">宝骏享境</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">20.88-30.98万</span>
+                        <span style="color:#8d99ae;">12.98-18.88万</span>
                         <span style="color:#ef233c; font-weight:700;">185</span>
                       </div>
                     </div>
@@ -2947,7 +2947,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2025-12-11 10:25:55
+          © 2025 AutoTrack 更新于：2025-12-11 14:53:09
       </p>
   </div>
 </div>
