@@ -6,47 +6,47 @@
     <div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
                   <span style="color: #4c82ff; font-weight: 600;">000001</span>
-                  <span style="color: #aab2c0; margin-left: 15px;">上证指数 4114</span>
+                  <span style="color: #aab2c0; margin-left: 15px;">上证指数 4113.65</span>
                 </div>
                 <div>
-                  <span style="color: #ff5252;">+12.09</span> 
-                  <span style="color: #ff5252;">(+0.29%)</span>
+                  <span style="color: #00e676;">-0.35</span> 
+                  <span style="color: #00e676;">(-0.01%)</span>
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
                   <span style="color: #4c82ff; font-weight: 600;">399001</span>
-                  <span style="color: #aab2c0; margin-left: 15px;">深证成指 14294.05</span>
+                  <span style="color: #aab2c0; margin-left: 15px;">深证成指 14155.63</span>
                 </div>
                 <div>
-                  <span style="color: #ff5252;">+12.97</span> 
-                  <span style="color: #ff5252;">(+0.09%)</span>
+                  <span style="color: #00e676;">-138.42</span> 
+                  <span style="color: #00e676;">(-0.97%)</span>
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
                   <span style="color: #4c82ff; font-weight: 600;">399006</span>
-                  <span style="color: #aab2c0; margin-left: 15px;">创业板指 3337.61</span>
+                  <span style="color: #aab2c0; margin-left: 15px;">创业板指 3277.98</span>
                 </div>
                 <div>
-                  <span style="color: #00e676;">-23.41</span> 
-                  <span style="color: #00e676;">(-0.7%)</span>
+                  <span style="color: #00e676;">-59.63</span> 
+                  <span style="color: #00e676;">(-1.79%)</span>
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
                   <span style="color: #4c82ff; font-weight: 600;">000300</span>
-                  <span style="color: #aab2c0; margin-left: 15px;">沪深300 4734.46</span>
+                  <span style="color: #aab2c0; margin-left: 15px;">沪深300 4718.88</span>
                 </div>
                 <div>
-                  <span style="color: #ff5252;">+2.59</span> 
-                  <span style="color: #ff5252;">(+0.05%)</span>
+                  <span style="color: #00e676;">-15.58</span> 
+                  <span style="color: #00e676;">(-0.33%)</span>
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
                   <span style="color: #4c82ff; font-weight: 600;">399005</span>
-                  <span style="color: #aab2c0; margin-left: 15px;">中小100 8833.02</span>
+                  <span style="color: #aab2c0; margin-left: 15px;">中小100 8727.52</span>
                 </div>
                 <div>
-                  <span style="color: #ff5252;">+26.38</span> 
-                  <span style="color: #ff5252;">(+0.3%)</span>
+                  <span style="color: #00e676;">-105.5</span> 
+                  <span style="color: #00e676;">(-1.19%)</span>
                 </div>
               </div>
     <div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
@@ -55,7 +55,7 @@
                   <span style="color: #aab2c0; margin-left: 15px;">天弘沪深300ETF联接C</span>
                 </div>
                 <div>
-                  <span style="color: #ff5252;">+0.05%</span> 
+                  <span style="color: #00e676;">-0.33%</span> 
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
@@ -63,7 +63,7 @@
                   <span style="color: #aab2c0; margin-left: 15px;">招商中证白酒指数(LOF)A</span>
                 </div>
                 <div>
-                  <span style="color: #00e676;">-0.50%</span> 
+                  <span style="color: #ff5252;">+0.90%</span> 
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
@@ -71,7 +71,7 @@
                   <span style="color: #aab2c0; margin-left: 15px;">嘉实新能源新材料股票A</span>
                 </div>
                 <div>
-                  <span style="color: #ff5252;">+0.17%</span> 
+                  <span style="color: #00e676;">-0.80%</span> 
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
@@ -79,7 +79,7 @@
                   <span style="color: #aab2c0; margin-left: 15px;">招商国证生物医药指数(LOF)A</span>
                 </div>
                 <div>
-                  <span style="color: #00e676;">-1.11%</span> 
+                  <span style="color: #00e676;">-1.15%</span> 
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
@@ -87,7 +87,7 @@
                   <span style="color: #aab2c0; margin-left: 15px;">中欧医疗健康混合C</span>
                 </div>
                 <div>
-                  <span style="color: #00e676;">-0.96%</span> 
+                  <span style="color: #00e676;">-1.29%</span> 
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
@@ -95,7 +95,7 @@
                   <span style="color: #aab2c0; margin-left: 15px;">易方达信息产业混合A</span>
                 </div>
                 <div>
-                  <span style="color: #00e676;">-0.30%</span> 
+                  <span style="color: #00e676;">-2.46%</span> 
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
@@ -103,7 +103,7 @@
                   <span style="color: #aab2c0; margin-left: 15px;">易方达蓝筹精选混合</span>
                 </div>
                 <div>
-                  <span style="color: #00e676;">-0.71%</span> 
+                  <span style="color: #ff5252;">+0.16%</span> 
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
@@ -111,7 +111,7 @@
                   <span style="color: #aab2c0; margin-left: 15px;">前海开源沪港深优势精选混合A</span>
                 </div>
                 <div>
-                  <span style="color: #00e676;">-0.38%</span> 
+                  <span style="color: #00e676;">-0.15%</span> 
                 </div>
               </div>
   </div>
@@ -126,12 +126,12 @@
     </div>
     <div style="text-align: center;">
       <div style="color: #6d7a8f; font-size: 0.9em;">预估收益</div>
-      <div style="font-size: 1.4em; font-weight: 600; margin-top: 8px;">¥-45.24</div>
+      <div style="font-size: 1.4em; font-weight: 600; margin-top: 8px;">¥0.01</div>
     </div>
   </div>
   <footer style="text-align: center; color: #6d7a8f; padding-top: 25px; font-size: 0.9em;">
     <p>© 2025 | 数据仅供参考，投资需谨慎</p>
-    <p>数据更新于 2026-01-19 15:17:22</p>
+    <p>数据更新于 2026-01-20 15:04:50</p>
     <p>Powered by Dearhuan</p>
   </footer>
 </div>
