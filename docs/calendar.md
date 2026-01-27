@@ -112,15 +112,15 @@
                           花呗
                         </div>
           </div><div style="text-align:center; padding:6px; opacity:1; background:
-          #eb87bf; border-radius: 15px;">
+          #cc76ff; border-radius: 15px;">
               26<div style="font-size:12px; font-weight: 600; line-height:1.2;">
-                          今天
-                        </div><div style="font-size:12px; font-weight: 600; line-height:1.2;">
                           腊八
                         </div>
           </div><div style="text-align:center; padding:6px; opacity:1; background:
-          #87d8eb; border-radius: 15px;">
-              27<span style="display:none;"></span>
+          #eb87bf; border-radius: 15px;">
+              27<div style="font-size:12px; font-weight: 600; line-height:1.2;">
+                          今天
+                        </div>
           </div><div style="text-align:center; padding:6px; opacity:1; background:
           #87d8eb; border-radius: 15px;">
               28<span style="display:none;"></span>
@@ -3119,7 +3119,7 @@
   </div> 
   <div style="padding:25px; background:#2A2840; border-radius:0 0 20px 20px; text-align:center;">
     <p style="margin:0; color:#A5B3FD; font-size:12px; line-height:1.6;">
-        🕒 最后更新：2026-01-26 15:02:58<br>
+        🕒 最后更新：2026-01-27 10:54:30<br>
         © 2025 TimeWarp 日历实验室
     </p>
   </div>
