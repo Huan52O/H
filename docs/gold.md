@@ -14,16 +14,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#0760CB; font-size:16px; font-weight:600;">零售价</span>
-              <div style="color:#D81EB2; font-size:22px; font-weight:700;">1706元/克</div>
+              <span style="color:#67E83F; font-size:16px; font-weight:600;">零售价</span>
+              <div style="color:#DB2B55; font-size:22px; font-weight:700;">1685元/克</div>
           </div>
           <div>
-              <span style="color:#0760CB; font-size:16px; font-weight:600;">换购价</span>
-              <div style="color:#D81EB2; font-size:22px; font-weight:700;">1191元/克</div>
+              <span style="color:#67E83F; font-size:16px; font-weight:600;">换购价</span>
+              <div style="color:#DB2B55; font-size:22px; font-weight:700;">1125元/克</div>
           </div>
           <div>
-              <span style="color:#0760CB; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 17:26:08</div>
+              <span style="color:#67E83F; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 13:26:15</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -33,16 +33,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#458FAC; font-size:16px; font-weight:600;">零售价</span>
-              <div style="color:#6D1D0E; font-size:22px; font-weight:700;">1704元/克</div>
+              <span style="color:#5993F8; font-size:16px; font-weight:600;">零售价</span>
+              <div style="color:#A4FAD8; font-size:22px; font-weight:700;">1683元/克</div>
           </div>
           <div>
-              <span style="color:#458FAC; font-size:16px; font-weight:600;">换购价</span>
-              <div style="color:#6D1D0E; font-size:22px; font-weight:700;">1456元/克</div>
+              <span style="color:#5993F8; font-size:16px; font-weight:600;">换购价</span>
+              <div style="color:#A4FAD8; font-size:22px; font-weight:700;">1436元/克</div>
           </div>
           <div>
-              <span style="color:#458FAC; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 17:26:08</div>
+              <span style="color:#5993F8; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 13:26:15</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -52,16 +52,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#36C2BD; font-size:16px; font-weight:600;">零售价</span>
-              <div style="color:#725480; font-size:22px; font-weight:700;">1650元/克</div>
+              <span style="color:#183FBA; font-size:16px; font-weight:600;">零售价</span>
+              <div style="color:#E6132E; font-size:22px; font-weight:700;">1650元/克</div>
           </div>
           <div>
-              <span style="color:#36C2BD; font-size:16px; font-weight:600;">换购价</span>
-              <div style="color:#725480; font-size:22px; font-weight:700;">-元/克</div>
+              <span style="color:#183FBA; font-size:16px; font-weight:600;">换购价</span>
+              <div style="color:#E6132E; font-size:22px; font-weight:700;">-元/克</div>
           </div>
           <div>
-              <span style="color:#36C2BD; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 17:26:08</div>
+              <span style="color:#183FBA; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 13:26:14</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -71,16 +71,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#F541A6; font-size:16px; font-weight:600;">零售价</span>
-              <div style="color:#EBE512; font-size:22px; font-weight:700;">1704元/克</div>
+              <span style="color:#015033; font-size:16px; font-weight:600;">零售价</span>
+              <div style="color:#695229; font-size:22px; font-weight:700;">1683元/克</div>
           </div>
           <div>
-              <span style="color:#F541A6; font-size:16px; font-weight:600;">换购价</span>
-              <div style="color:#EBE512; font-size:22px; font-weight:700;">1459元/克</div>
+              <span style="color:#015033; font-size:16px; font-weight:600;">换购价</span>
+              <div style="color:#695229; font-size:22px; font-weight:700;">1439元/克</div>
           </div>
           <div>
-              <span style="color:#F541A6; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 17:20:00</div>
+              <span style="color:#015033; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 13:20:00</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -90,16 +90,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#DB5395; font-size:16px; font-weight:600;">零售价</span>
-              <div style="color:#F80808; font-size:22px; font-weight:700;">1713元/克</div>
+              <span style="color:#21F25F; font-size:16px; font-weight:600;">零售价</span>
+              <div style="color:#C7B61B; font-size:22px; font-weight:700;">1668元/克</div>
           </div>
           <div>
-              <span style="color:#DB5395; font-size:16px; font-weight:600;">换购价</span>
-              <div style="color:#F80808; font-size:22px; font-weight:700;">1456元/克</div>
+              <span style="color:#21F25F; font-size:16px; font-weight:600;">换购价</span>
+              <div style="color:#C7B61B; font-size:22px; font-weight:700;">1436元/克</div>
           </div>
           <div>
-              <span style="color:#DB5395; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 00:00:00</div>
+              <span style="color:#21F25F; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 00:00:00</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -109,16 +109,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#7E114A; font-size:16px; font-weight:600;">零售价</span>
-              <div style="color:#D75E5F; font-size:22px; font-weight:700;">1706元/克</div>
+              <span style="color:#BCD7D4; font-size:16px; font-weight:600;">零售价</span>
+              <div style="color:#A81F10; font-size:22px; font-weight:700;">1668元/克</div>
           </div>
           <div>
-              <span style="color:#7E114A; font-size:16px; font-weight:600;">换购价</span>
-              <div style="color:#D75E5F; font-size:22px; font-weight:700;">-元/克</div>
+              <span style="color:#BCD7D4; font-size:16px; font-weight:600;">换购价</span>
+              <div style="color:#A81F10; font-size:22px; font-weight:700;">-元/克</div>
           </div>
           <div>
-              <span style="color:#7E114A; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 16:55:29</div>
+              <span style="color:#BCD7D4; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 13:05:55</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -128,16 +128,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#72D087; font-size:16px; font-weight:600;">零售价</span>
-              <div style="color:#F7DE84; font-size:22px; font-weight:700;">1708元/克</div>
+              <span style="color:#529638; font-size:16px; font-weight:600;">零售价</span>
+              <div style="color:#1700E1; font-size:22px; font-weight:700;">1683元/克</div>
           </div>
           <div>
-              <span style="color:#72D087; font-size:16px; font-weight:600;">换购价</span>
-              <div style="color:#F7DE84; font-size:22px; font-weight:700;">1453元/克</div>
+              <span style="color:#529638; font-size:16px; font-weight:600;">换购价</span>
+              <div style="color:#1700E1; font-size:22px; font-weight:700;">1432元/克</div>
           </div>
           <div>
-              <span style="color:#72D087; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 09:15:00</div>
+              <span style="color:#529638; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 10:02:51</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -147,16 +147,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#97C2B1; font-size:16px; font-weight:600;">交易价格</span>
-              <div style="color:#1D6F9E; font-size:22px; font-weight:700;">5517.89 <span style="color: #888888; font-size: 16px">美元/盎司</span></div>
+              <span style="color:#4FE6C4; font-size:16px; font-weight:600;">交易价格</span>
+              <div style="color:#66F93B; font-size:22px; font-weight:700;">5232.95 <span style="color: #888888; font-size: 16px">美元/盎司</span></div>
           </div>
           <div>
-              <span style="color:#97C2B1; font-size:16px; font-weight:600;">换算价格</span>
-              <div style="color:#1D6F9E; font-size:22px; font-weight:700;">1232.0905 <span style="color: #888888; font-size: 16px">元/克</span></div>
+              <span style="color:#4FE6C4; font-size:16px; font-weight:600;">换算价格</span>
+              <div style="color:#66F93B; font-size:22px; font-weight:700;">1169.0214 <span style="color: #888888; font-size: 16px">元/克</span></div>
           </div>
           <div>
-              <span style="color:#97C2B1; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 17:26:07</div>
+              <span style="color:#4FE6C4; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 13:26:13</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -166,16 +166,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#457223; font-size:16px; font-weight:600;">交易价格</span>
-              <div style="color:#AC6B61; font-size:22px; font-weight:700;">1248.22 <span style="color: #888888; font-size: 16px">人民币/克</span></div>
+              <span style="color:#B59533; font-size:16px; font-weight:600;">交易价格</span>
+              <div style="color:#FBC7D5; font-size:22px; font-weight:700;">1179.31 <span style="color: #888888; font-size: 16px">人民币/克</span></div>
           </div>
           <div>
-              <span style="color:#457223; font-size:16px; font-weight:600;">换算价格</span>
-              <div style="color:#AC6B61; font-size:22px; font-weight:700;">1248.22 <span style="color: #888888; font-size: 16px">元/克</span></div>
+              <span style="color:#B59533; font-size:16px; font-weight:600;">换算价格</span>
+              <div style="color:#FBC7D5; font-size:22px; font-weight:700;">1179.31 <span style="color: #888888; font-size: 16px">元/克</span></div>
           </div>
           <div>
-              <span style="color:#457223; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 15:02:10</div>
+              <span style="color:#B59533; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 10:25:30</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -185,16 +185,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#7FE95F; font-size:16px; font-weight:600;">交易价格</span>
-              <div style="color:#D1915B; font-size:22px; font-weight:700;">117.36 <span style="color: #888888; font-size: 16px">美元/盎司</span></div>
+              <span style="color:#84BE5F; font-size:16px; font-weight:600;">交易价格</span>
+              <div style="color:#669366; font-size:22px; font-weight:700;">112.04 <span style="color: #888888; font-size: 16px">美元/盎司</span></div>
           </div>
           <div>
-              <span style="color:#7FE95F; font-size:16px; font-weight:600;">换算价格</span>
-              <div style="color:#D1915B; font-size:22px; font-weight:700;">26.2053 <span style="color: #888888; font-size: 16px">元/克</span></div>
+              <span style="color:#84BE5F; font-size:16px; font-weight:600;">换算价格</span>
+              <div style="color:#669366; font-size:22px; font-weight:700;">25.0293 <span style="color: #888888; font-size: 16px">元/克</span></div>
           </div>
           <div>
-              <span style="color:#7FE95F; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 17:26:07</div>
+              <span style="color:#84BE5F; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 13:26:13</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -204,16 +204,16 @@
       </div>
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
-              <span style="color:#334485; font-size:16px; font-weight:600;">交易价格</span>
-              <div style="color:#579FC8; font-size:22px; font-weight:700;">30300 <span style="color: #888888; font-size: 16px">人民币/千克</span></div>
+              <span style="color:#D181B0; font-size:16px; font-weight:600;">交易价格</span>
+              <div style="color:#FCE3F6; font-size:22px; font-weight:700;">29485 <span style="color: #888888; font-size: 16px">人民币/千克</span></div>
           </div>
           <div>
-              <span style="color:#334485; font-size:16px; font-weight:600;">换算价格</span>
-              <div style="color:#579FC8; font-size:22px; font-weight:700;">30.3 <span style="color: #888888; font-size: 16px">元/克</span></div>
+              <span style="color:#D181B0; font-size:16px; font-weight:600;">换算价格</span>
+              <div style="color:#FCE3F6; font-size:22px; font-weight:700;">29.485 <span style="color: #888888; font-size: 16px">元/克</span></div>
           </div>
           <div>
-              <span style="color:#334485; font-size:12px;">更新时间</span>
-              <div style="font-size:22px; font-weight:700;">2026-01-29 15:03:50</div>
+              <span style="color:#D181B0; font-size:12px;">更新时间</span>
+              <div style="font-size:22px; font-weight:700;">2026-01-30 09:46:20</div>
           </div>
       </div>
     </div>        
@@ -221,7 +221,7 @@
   <!-- 页脚 -->
   <div style="padding:20px; border-top:2px solid #00f7ff33; text-align:center;">
       <p style="margin:0; color:#fffc00; font-size:14px; line-height:1.6;">
-          ⚡ 数据更新：2026-01-30 11:16:29<br>
+          ⚡ 数据更新：2026-01-30 15:30:55<br>
           © 2025 · 实时行情追踪
       </p>
   </div>
