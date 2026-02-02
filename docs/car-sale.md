@@ -167,7 +167,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">奔驰C级</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">33.48-38.41万</span>
+                        <span style="color:#8d99ae;">30.46-36.03万</span>
                         <span style="color:#ef233c; font-weight:700;">9644</span>
                       </div>
                     </div>
@@ -1040,7 +1040,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">eπ007</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">11.59-17.99万</span>
+                        <span style="color:#8d99ae;">11.59-26.59万</span>
                         <span style="color:#ef233c; font-weight:700;">2045</span>
                       </div>
                     </div>
@@ -2962,7 +2962,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-02-01 15:08:31
+          © 2025 AutoTrack 更新于：2026-02-02 11:22:14
       </p>
   </div>
 </div>
