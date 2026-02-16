@@ -103,7 +103,7 @@
                   <span style="color: #aab2c0; margin-left: 15px;">易方达蓝筹精选混合</span>
                 </div>
                 <div>
-                  <span style="color: #00e676;">-0.46%</span> 
+                  <span style="color: #00e676;">-0.30%</span> 
                 </div>
               </div><div style="display: flex; justify-content: space-between; padding: 18px; margin: 12px 0; background: rgba(255,255,255,0.03); border-radius: 8px; transition: transform 0.3s ease;">
                 <div>
@@ -111,7 +111,7 @@
                   <span style="color: #aab2c0; margin-left: 15px;">前海开源沪港深优势精选混合A</span>
                 </div>
                 <div>
-                  <span style="color: #00e676;">-1.62%</span> 
+                  <span style="color: #00e676;">-1.41%</span> 
                 </div>
               </div>
   </div>
@@ -126,12 +126,12 @@
     </div>
     <div style="text-align: center;">
       <div style="color: #6d7a8f; font-size: 0.9em;">预估收益</div>
-      <div style="font-size: 1.4em; font-weight: 600; margin-top: 8px;">¥-382.25</div>
+      <div style="font-size: 1.4em; font-weight: 600; margin-top: 8px;">¥-367.67</div>
     </div>
   </div>
   <footer style="text-align: center; color: #6d7a8f; padding-top: 25px; font-size: 0.9em;">
     <p>© 2025 | 数据仅供参考，投资需谨慎</p>
-    <p>数据更新于 2026-02-13 15:37:46</p>
+    <p>数据更新于 2026-02-16 11:32:22</p>
     <p>Powered by Dearhuan</p>
   </footer>
 </div>
