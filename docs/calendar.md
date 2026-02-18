@@ -197,13 +197,13 @@
                           除夕
                         </div>
           </div><div style="text-align:center; padding:6px; opacity:1; background:
+          #cacaca; border-radius: 15px;">
+              17<span style="display:none;"></span>
+          </div><div style="text-align:center; padding:6px; opacity:1; background:
           #eb87bf; border-radius: 15px;">
-              17<div style="font-size:12px; font-weight: 600; line-height:1.2;">
+              18<div style="font-size:12px; font-weight: 600; line-height:1.2;">
                           今天
                         </div>
-          </div><div style="text-align:center; padding:6px; opacity:1; background:
-          #87d8eb; border-radius: 15px;">
-              18<span style="display:none;"></span>
           </div><div style="text-align:center; padding:6px; opacity:1; background:
           #87d8eb; border-radius: 15px;">
               19<span style="display:none;"></span>
@@ -3119,7 +3119,7 @@
   </div> 
   <div style="padding:25px; background:#2A2840; border-radius:0 0 20px 20px; text-align:center;">
     <p style="margin:0; color:#A5B3FD; font-size:12px; line-height:1.6;">
-        🕒 最后更新：2026-02-17 15:33:52<br>
+        🕒 最后更新：2026-02-18 11:24:59<br>
         © 2025 TimeWarp 日历实验室
     </p>
   </div>
