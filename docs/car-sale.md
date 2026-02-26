@@ -583,7 +583,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">39</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/168128884411372edbe4.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/177200866949092edbe4.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">红旗H6</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -613,7 +613,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">41</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/16087083256895d400f1.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17720707075946c6601a.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">红旗H5 PHEV</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -1291,7 +1291,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">36</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17108486399216c6b9df.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17720715579370e27298.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">红旗EH7</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -1381,7 +1381,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">42</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/167904321416371160cc.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1772007043899985c8cf.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">昊铂GT</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -1924,7 +1924,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">32</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/175489486520118e3ed0.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/177200837229558e3ed0.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">红旗HS6 PHEV</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -2029,7 +2029,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">39</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1694589971119719e6da.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1772007246360019e6da.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">昊铂HT</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -2119,7 +2119,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">45</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17315747006591b545df.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17720718438037b545df.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">红旗天工08</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -2962,7 +2962,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-02-25 15:30:48
+          © 2025 AutoTrack 更新于：2026-02-26 11:14:37
       </p>
   </div>
 </div>
