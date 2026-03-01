@@ -236,10 +236,8 @@
           #cacaca; border-radius: 15px;">
               27<span style="display:none;"></span>
           </div><div style="text-align:center; padding:6px; opacity:1; background:
-          #eb87bf; border-radius: 15px;">
-              28<div style="font-size:12px; font-weight: 600; line-height:1.2;">
-                          今天
-                        </div>
+          #cacaca; border-radius: 15px;">
+              28<span style="display:none;"></span>
           </div>
       </div>
     </div><div style="border-radius:14px; padding:16px; box-shadow:0 4px 16px rgba(90,70,180,0.08);">
@@ -250,8 +248,10 @@
       <div style="display:grid; grid-template-columns:repeat(7, 1fr); gap:5px; font-size:13px; padding: 5px 0; color: #505be5;"><div style="text-align: center;">日</div><div style="text-align: center;">一</div><div style="text-align: center;">二</div><div style="text-align: center;">三</div><div style="text-align: center;">四</div><div style="text-align: center;">五</div><div style="text-align: center;">六</div></div>
       <div style="display:grid; grid-template-columns:repeat(7, 1fr); gap:5px; font-size:13px;">
         <div style="text-align:center; padding:6px; opacity:1; background:
-          #87d8eb; border-radius: 15px;">
-              1<span style="display:none;"></span>
+          #eb87bf; border-radius: 15px;">
+              1<div style="font-size:12px; font-weight: 600; line-height:1.2;">
+                          今天
+                        </div>
           </div><div style="text-align:center; padding:6px; opacity:1; background:
           #87d8eb; border-radius: 15px;">
               2<span style="display:none;"></span>
@@ -3119,7 +3119,7 @@
   </div> 
   <div style="padding:25px; background:#2A2840; border-radius:0 0 20px 20px; text-align:center;">
     <p style="margin:0; color:#A5B3FD; font-size:12px; line-height:1.6;">
-        🕒 最后更新：2026-02-28 15:03:05<br>
+        🕒 最后更新：2026-03-01 11:32:42<br>
         © 2025 TimeWarp 日历实验室
     </p>
   </div>
