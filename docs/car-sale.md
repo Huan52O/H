@@ -2576,7 +2576,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">宏光MINIEV</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">3.28-9.99万</span>
+                        <span style="color:#8d99ae;">3.58-5.58万</span>
                         <span style="color:#ef233c; font-weight:700;">4866</span>
                       </div>
                     </div>
@@ -2977,7 +2977,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-03-13 11:11:21
+          © 2025 AutoTrack 更新于：2026-03-13 15:14:36
       </p>
   </div>
 </div>
