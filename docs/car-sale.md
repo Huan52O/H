@@ -781,7 +781,7 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#32badd; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">2</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/16599724074379d83d81.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/177329944875378c087a.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">奥迪A6L</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
@@ -2977,7 +2977,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-03-12 15:15:16
+          © 2025 AutoTrack 更新于：2026-03-13 11:11:21
       </p>
   </div>
 </div>
