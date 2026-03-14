@@ -888,7 +888,7 @@
                     display:flex; align-items:center; justify-content:center; font-weight:700;">9</span>
                     <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17563514459705b8cc44.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
-                      <div style="font-weight:700; color:#2b2d42;">领克10 EM-P</div>
+                      <div style="font-weight:700; color:#2b2d42;">领克10</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
                         <span style="color:#8d99ae;">17.38-21.18万</span>
                         <span style="color:#ef233c; font-weight:700;">2181</span>
@@ -1190,7 +1190,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">小米SU7</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">21.59-29.99万</span>
+                        <span style="color:#8d99ae;">22.99-30.99万</span>
                         <span style="color:#ef233c; font-weight:700;">218</span>
                       </div>
                     </div>
@@ -2471,7 +2471,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">缤果S</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">6.68-7.98万</span>
+                        <span style="color:#8d99ae;">6.68-8.98万</span>
                         <span style="color:#ef233c; font-weight:700;">5448</span>
                       </div>
                     </div>
@@ -2977,7 +2977,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-03-13 15:14:36
+          © 2025 AutoTrack 更新于：2026-03-14 11:09:07
       </p>
   </div>
 </div>
