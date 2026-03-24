@@ -845,7 +845,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">享界S9T</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">30.98-36.98万</span>
+                        <span style="color:#8d99ae;">30.98-37.98万</span>
                         <span style="color:#ef233c; font-weight:700;">2935</span>
                       </div>
                     </div>
@@ -1070,7 +1070,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">智界S7</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">22.98-28.98万</span>
+                        <span style="color:#8d99ae;">22.98-29.98万</span>
                         <span style="color:#ef233c; font-weight:700;">393</span>
                       </div>
                     </div>
@@ -1523,7 +1523,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">问界M7</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">24.98-37.98万</span>
+                        <span style="color:#8d99ae;">24.98-38.98万</span>
                         <span style="color:#ef233c; font-weight:700;">10093</span>
                       </div>
                     </div>
@@ -1598,7 +1598,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">智界R7</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">24.98-30.98万</span>
+                        <span style="color:#8d99ae;">24.98-31.98万</span>
                         <span style="color:#ef233c; font-weight:700;">1945</span>
                       </div>
                     </div>
@@ -2336,7 +2336,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">问界M7</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">24.98-37.98万</span>
+                        <span style="color:#8d99ae;">24.98-38.98万</span>
                         <span style="color:#ef233c; font-weight:700;">10093</span>
                       </div>
                     </div>
@@ -2651,7 +2651,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">问界M8</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">35.98-44.98万</span>
+                        <span style="color:#8d99ae;">35.98-45.98万</span>
                         <span style="color:#ef233c; font-weight:700;">3992</span>
                       </div>
                     </div>
@@ -2846,7 +2846,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">享界S9T</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">30.98-36.98万</span>
+                        <span style="color:#8d99ae;">30.98-37.98万</span>
                         <span style="color:#ef233c; font-weight:700;">2935</span>
                       </div>
                     </div>
@@ -2977,7 +2977,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-03-23 15:42:11
+          © 2025 AutoTrack 更新于：2026-03-24 11:16:38
       </p>
   </div>
 </div>
