@@ -13,11 +13,11 @@
       <div style="display: flex; justify-content: space-between; align-items: center;">
         <div style="font-size: 12px; color: #64748b;">
             <i class="fa-regular fa-calendar" style="margin-right: 4px;"></i>
-            <span>2026年05月05日</span>
+            <span>2026年05月06日</span>
         </div>
         <div style="font-size: 12px; color: #165DFF; font-weight: 500;">
             <i class="fa-solid fa-clock-rotate-left" style="margin-right: 4px;"></i>
-            <span>17:01:48</span>
+            <span>12:26:46</span>
         </div>
       </div>
     </div>
