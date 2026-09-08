@@ -107,7 +107,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">秦L</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">9.68-15.38万</span>
+                        <span style="color:#8d99ae;">9.68-15.58万</span>
                         <span style="color:#ef233c; font-weight:700;">7732</span>
                       </div>
                     </div>
@@ -557,7 +557,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">海豹07 DM-i</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">14.98-18.68万</span>
+                        <span style="color:#8d99ae;">14.98-20.18万</span>
                         <span style="color:#ef233c; font-weight:700;">1080</span>
                       </div>
                     </div>
@@ -800,7 +800,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">奥迪A6L</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">33.69-55.89万</span>
+                        <span style="color:#8d99ae;">32.29-55.89万</span>
                         <span style="color:#ef233c; font-weight:700;">6992</span>
                       </div>
                     </div>
@@ -1471,11 +1471,11 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">48</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1782205356821670bcfe.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1740712890387490e453.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
-                      <div style="font-weight:700; color:#2b2d42;">沃尔沃S90插电式混动</div>
+                      <div style="font-weight:700; color:#2b2d42;">比亚迪e9</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">49.99-61.39万</span>
+                        <span style="color:#8d99ae;">16.98万</span>
                         <span style="color:#ef233c; font-weight:700;">2</span>
                       </div>
                     </div>
@@ -1486,11 +1486,11 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">49</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1740712890387490e453.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1782205356821670bcfe.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
-                      <div style="font-weight:700; color:#2b2d42;">比亚迪e9</div>
+                      <div style="font-weight:700; color:#2b2d42;">沃尔沃S90插电式混动</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">16.98万</span>
+                        <span style="color:#8d99ae;">49.99-61.39万</span>
                         <span style="color:#ef233c; font-weight:700;">2</span>
                       </div>
                     </div>
@@ -2741,7 +2741,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">海狮05 EV</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">11.78-14.59万</span>
+                        <span style="color:#8d99ae;">11.78-16.38万</span>
                         <span style="color:#ef233c; font-weight:700;">8088</span>
                       </div>
                     </div>
@@ -2756,7 +2756,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">秦L</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">9.68-15.38万</span>
+                        <span style="color:#8d99ae;">9.68-15.58万</span>
                         <span style="color:#ef233c; font-weight:700;">7732</span>
                       </div>
                     </div>
@@ -3022,7 +3022,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-09-07 20:48:09
+          © 2025 AutoTrack 更新于：2026-09-08 12:53:25
       </p>
   </div>
 </div>
