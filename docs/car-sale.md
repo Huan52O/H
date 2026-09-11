@@ -1160,7 +1160,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">银河TT</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">14.59-20.98万</span>
+                        <span style="color:#8d99ae;">13.99-19.59万</span>
                         <span style="color:#ef233c; font-weight:700;">414</span>
                       </div>
                     </div>
@@ -1415,7 +1415,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">红旗EH7</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">20.88-30.98万</span>
+                        <span style="color:#8d99ae;">20.88-28.88万</span>
                         <span style="color:#ef233c; font-weight:700;">42</span>
                       </div>
                     </div>
@@ -1673,7 +1673,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">智己LS6</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">22.49-28.49万</span>
+                        <span style="color:#8d99ae;">22.99-26.49万</span>
                         <span style="color:#ef233c; font-weight:700;">3454</span>
                       </div>
                     </div>
@@ -3022,7 +3022,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-09-10 19:32:36
+          © 2025 AutoTrack 更新于：2026-09-11 12:53:24
       </p>
   </div>
 </div>
