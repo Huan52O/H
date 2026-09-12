@@ -1381,11 +1381,11 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">42</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/176975756313932650d9.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17604362279647fca733.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
-                      <div style="font-weight:700; color:#2b2d42;">星海S7</div>
+                      <div style="font-weight:700; color:#2b2d42;">岚图追光 L</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">11.99-21.99万</span>
+                        <span style="color:#8d99ae;">27.99-33.99万</span>
                         <span style="color:#ef233c; font-weight:700;">48</span>
                       </div>
                     </div>
@@ -1396,11 +1396,11 @@
                   <div style="display:flex; align-items:center; gap:12px;">
                     <span style="width:28px; height:28px; background:#2b2d42; color:#fff; border-radius:50%; 
                     display:flex; align-items:center; justify-content:center; font-weight:700;">43</span>
-                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/17604362279647fca733.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
+                    <img src="https://youjia-image.cdn.bcebos.com/seriesImage/176975756313932650d9.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
-                      <div style="font-weight:700; color:#2b2d42;">岚图追光 L</div>
+                      <div style="font-weight:700; color:#2b2d42;">星海S7</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">27.99-33.99万</span>
+                        <span style="color:#8d99ae;">11.99-21.99万</span>
                         <span style="color:#ef233c; font-weight:700;">48</span>
                       </div>
                     </div>
@@ -2306,7 +2306,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">Model Y</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">26.35-31.35万</span>
+                        <span style="color:#8d99ae;">26.35-36.9万</span>
                         <span style="color:#ef233c; font-weight:700;">29260</span>
                       </div>
                     </div>
@@ -3022,7 +3022,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-09-11 19:34:04
+          © 2025 AutoTrack 更新于：2026-09-12 12:45:45
       </p>
   </div>
 </div>
