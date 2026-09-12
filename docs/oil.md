@@ -13,11 +13,11 @@
       <div style="display: flex; justify-content: space-between; align-items: center;">
         <div style="font-size: 12px; color: #64748b;">
             <i class="fa-regular fa-calendar" style="margin-right: 4px;"></i>
-            <span>2026年09月11日</span>
+            <span>2026年09月12日</span>
         </div>
         <div style="font-size: 12px; color: #165DFF; font-weight: 500;">
             <i class="fa-solid fa-clock-rotate-left" style="margin-right: 4px;"></i>
-            <span>19:50:48</span>
+            <span>13:11:11</span>
         </div>
       </div>
     </div>
@@ -34,8 +34,8 @@
               <div style="font-size: 12px; color: #64748b;">日常通勤首选</div>
           </div>
           <div style="text-align: right;">
-              <div style="font-size: 20px; font-weight: bold; color: #165DFF;">¥8.1</div>
-              <div style="font-size: 10px; color: #FF6B35;">+0.3</div>
+              <div style="font-size: 20px; font-weight: bold; color: #165DFF;">¥8.31</div>
+              <div style="font-size: 10px; color: #FF6B35;">+0.21</div>
           </div>
         </div>
       </div><div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
@@ -48,8 +48,8 @@
               <div style="font-size: 12px; color: #64748b;">高性能发动机适用</div>
           </div>
           <div style="text-align: right;">
-              <div style="font-size: 20px; font-weight: bold; color: #36D399;">¥8.78</div>
-              <div style="font-size: 10px; color: #FF6B35;">+0.33</div>
+              <div style="font-size: 20px; font-weight: bold; color: #36D399;">¥9</div>
+              <div style="font-size: 10px; color: #FF6B35;">+0.22</div>
           </div>
         </div>
       </div><div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
@@ -62,8 +62,8 @@
               <div style="font-size: 12px; color: #64748b;">高端车辆优选</div>
           </div>
           <div style="text-align: right;">
-              <div style="font-size: 20px; font-weight: bold; color: #FF6B35;">¥10.78</div>
-              <div style="font-size: 10px; color: #FF6B35;">+0.33</div>
+              <div style="font-size: 20px; font-weight: bold; color: #FF6B35;">¥11</div>
+              <div style="font-size: 10px; color: #FF6B35;">+0.22</div>
           </div>
         </div>
       </div><div style="margin-bottom: 16px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
@@ -76,8 +76,8 @@
               <div style="font-size: 12px; color: #64748b;">货车、工程机械用</div>
           </div>
           <div style="text-align: right;">
-              <div style="font-size: 20px; font-weight: bold; color: #1E293B;">¥7.76</div>
-              <div style="font-size: 10px; color: #FF6B35;">+0.31</div>
+              <div style="font-size: 20px; font-weight: bold; color: #1E293B;">¥7.98</div>
+              <div style="font-size: 10px; color: #FF6B35;">+0.22</div>
           </div>
         </div>
       </div>      
