@@ -13,35 +13,35 @@
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
               <span style="color:#00f7ff; font-size:12px;">最新价</span>
-              <div style="color:#00ff88; font-size:24px; font-weight:700;">$77849.5</div>
+              <div style="color:#00ff88; font-size:24px; font-weight:700;">$77378.8</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">转换价(6.723)</span>
-              <div style="color:#00ff88; font-size:24px; font-weight:700;">￥523382.19</div>
+              <div style="color:#00ff88; font-size:24px; font-weight:700;">￥520217.67</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">24H量</span>
-              <div style="font-size:18px;">4140.08 BTC</div>
+              <div style="font-size:18px;">6045.94 BTC</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">24H开盘</span>
-              <div style="font-size:16px;">$76669.5</div>
+              <div style="font-size:16px;">$77537.1</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">24H最高</span>
-              <div style="font-size:16px;">$78372.9</div>
+              <div style="font-size:16px;">$79600</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">24H最低</span>
-              <div style="font-size:16px;">$76394.9</div>
+              <div style="font-size:16px;">$77307.6</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">UTC 0时</span>
-              <div style="font-size:16px;">$76832.3</div>
+              <div style="font-size:16px;">$78195.7</div>
           </div>
           <div>
               <span style="color:#00f7ff; font-size:12px;">UTC 8时</span>
-              <div style="font-size:16px;">$77132.4</div>
+              <div style="font-size:16px;">$78575.7</div>
           </div>
       </div>
     </div><div style="margin-bottom:15px; padding:15px; border:1px solid #00f7ff33; border-radius:8px;">
@@ -52,42 +52,42 @@
       <div style="display:grid; grid-template-columns:repeat(2, 1fr); gap:10px;">
           <div>
               <span style="color:#ff00d2; font-size:12px;">最新价</span>
-              <div style="color:#ff4dff; font-size:24px; font-weight:700;">$2502.76</div>
+              <div style="color:#ff4dff; font-size:24px; font-weight:700;">$2484.09</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">转换价(6.723)</span>
-              <div style="color:#ff4dff; font-size:24px; font-weight:700;">￥16826.06</div>
+              <div style="color:#ff4dff; font-size:24px; font-weight:700;">￥16700.54</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">24H量</span>
-              <div style="font-size:18px;">102752.90 ETH</div>
+              <div style="font-size:18px;">148496.70 ETH</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">24H开盘</span>
-              <div style="font-size:16px;">$2471.72</div>
+              <div style="font-size:16px;">$2511.8</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">24H最高</span>
-              <div style="font-size:16px;">$2534.66</div>
+              <div style="font-size:16px;">$2615</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">24H最低</span>
-              <div style="font-size:16px;">$2461.54</div>
+              <div style="font-size:16px;">$2478.66</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">UTC 0时</span>
-              <div style="font-size:16px;">$2476.93</div>
+              <div style="font-size:16px;">$2515.4</div>
           </div>
           <div>
               <span style="color:#ff00d2; font-size:12px;">UTC 8时</span>
-              <div style="font-size:16px;">$2491.19</div>
+              <div style="font-size:16px;">$2508.52</div>
           </div>
       </div>
     </div>      
   </div>
   <div style="padding:20px; background:#000716; border-top:2px solid #00f7ff33; text-align:center;">
     <p style="margin:0; color:#fffc00; font-size:14px; line-height:1.6;">
-        ⚡ 数据更新：2026-09-14 21:21:40<br>
+        ⚡ 数据更新：2026-09-15 13:23:29<br>
         © 2025 CryptoVision · 实时行情追踪
     </p>
   </div>
