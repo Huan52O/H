@@ -480,7 +480,7 @@
                     display:flex; align-items:center; justify-content:center; font-weight:700;">32</span>
                     <img src="https://youjia-image.cdn.bcebos.com/seriesImage/1778471309937539a07d.png@!w_600_fp" alt="Lakers" style="width:58px; height:58px; object-fit:contain;">
                     <div style="flex:1;">
-                      <div style="font-weight:700; color:#2b2d42;">ID.ERA 5S</div>
+                      <div style="font-weight:700; color:#2b2d42;">ID. ERA 5S</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
                         <span style="color:#8d99ae;">11.99-14.99万</span>
                         <span style="color:#ef233c; font-weight:700;">1485</span>
@@ -3022,7 +3022,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-09-29 21:08:38
+          © 2025 AutoTrack 更新于：2026-09-30 13:44:50
       </p>
   </div>
 </div>
