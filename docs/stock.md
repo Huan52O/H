@@ -414,6 +414,6 @@
   </div>
   <div style="text-align:center;margin-top:30px;color:#999;font-size:12px;">
     <p style="margin:4px 0;">© 2025 数据观察</p>
-    <p style="margin:4px 0;">更新时间：2026-10-31 21:06:58</p>
+    <p style="margin:4px 0;">更新时间：2026-11-01 14:53:34</p>
   </div>
 </div>
