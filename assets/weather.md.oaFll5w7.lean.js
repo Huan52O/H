@@ -1,0 +1,1 @@
+import{_ as i,c as t,o as a,ae as r}from"./chunks/framework.C-voQVsB.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"weather.md","filePath":"weather.md"}'),d={name:"weather.md"};function n(s,e,o,l,p,g){return a(),t("div",null,e[0]||(e[0]=[r("",1)]))}const f=i(d,[["render",n]]);export{m as __pageData,f as default};
