@@ -2213,7 +2213,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">唐新能源</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">22.5-26万</span>
+                        <span style="color:#8d99ae;">18.79-23.99万</span>
                         <span style="color:#ef233c; font-weight:700;">499</span>
                       </div>
                     </div>
@@ -2456,7 +2456,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">缤果Pro</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">5.68-7.08万</span>
+                        <span style="color:#8d99ae;">5.68-7.38万</span>
                         <span style="color:#ef233c; font-weight:700;">15331</span>
                       </div>
                     </div>
@@ -2501,7 +2501,7 @@
                     <div style="flex:1;">
                       <div style="font-weight:700; color:#2b2d42;">QQ3 EV</div>
                       <div style="display:flex; gap:15px; margin-top:5px; justify-content:space-between;">
-                        <span style="color:#8d99ae;">5.89-8.89万</span>
+                        <span style="color:#8d99ae;">5.89-12.08万</span>
                         <span style="color:#ef233c; font-weight:700;">14041</span>
                       </div>
                     </div>
@@ -3022,7 +3022,7 @@
   <div style="padding:20px; background:#2b2d42; text-align:center;">
       <p style="margin:0; color:#edf2f4; font-size:12px; line-height:1.5;">
           🏁 数据来源：中国汽车工业协会<br>
-          © 2025 AutoTrack 更新于：2026-11-24 18:08:01
+          © 2025 AutoTrack 更新于：2026-11-25 16:54:17
       </p>
   </div>
 </div>
